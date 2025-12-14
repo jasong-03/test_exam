@@ -1,0 +1,114 @@
+{
+  "id": "237085b3-3580-47c5-a0d2-1ef421fc4cc4",
+  "question_number": "2",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "There are less than 40 apples in a box. Adam, Chloe and Eddy shared the box of apples in the ratio 3 : 1 : 5.\nEach statement below is either true, false or not possible to tell from the information given. For each statement, put a tick (✓) to indicate your answer. [Diagram: A table with four columns: 'Statement', 'True', 'False', 'Not possible to tell'. The table contains two statements to be evaluated.]",
+    "text_latex": "There are less than 40 apples in a box. Adam, Chloe and Eddy shared the box of apples in the ratio $3 : 1 : 5$.\nEach statement below is either true, false or not possible to tell from the information given. For each statement, put a tick (✓) to indicate your answer.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "MULTIPLE_CHOICE",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": 2,
+  "subparts": [
+    {
+      "id": "f3cdd3ea-8690-4c0f-a8da-8b0ad00d5a4a",
+      "question_number": "2statement 1",
+      "parent_question_id": "237085b3-3580-47c5-a0d2-1ef421fc4cc4",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "There are 9 apples in the box.",
+        "text_latex": null,
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "True",
+            "text": "True",
+            "is_correct": false
+          },
+          {
+            "label": "False",
+            "text": "False",
+            "is_correct": false
+          },
+          {
+            "label": "Not possible to tell",
+            "text": "Not possible to tell",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 20,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    },
+    {
+      "id": "7ceba0cc-4c0e-4eb7-b101-3835974da0ef",
+      "question_number": "2statement 2",
+      "parent_question_id": "237085b3-3580-47c5-a0d2-1ef421fc4cc4",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "Adam received 10 more apples than Chloe.",
+        "text_latex": null,
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "True",
+            "text": "True",
+            "is_correct": false
+          },
+          {
+            "label": "False",
+            "text": "False",
+            "is_correct": false
+          },
+          {
+            "label": "Not possible to tell",
+            "text": "Not possible to tell",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 20,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    }
+  ],
+  "source": {
+    "page_number": 20,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.97
+}

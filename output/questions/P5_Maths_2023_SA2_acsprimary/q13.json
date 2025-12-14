@@ -1,0 +1,70 @@
+{
+  "id": "85ae1f76-d709-465f-a82a-0277f16dfd94",
+  "question_number": "13",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Alex, Ben and Charles shared some stickers. Ben received 3 times as many stickers as Charles. The number of stickers Alex received was $\\frac{3}{5}$ the total number of stickers. Alex received 120 more stickers than Charles.",
+    "text_latex": "Alex, Ben and Charles shared some stickers. Ben received 3 times as many stickers as Charles. The number of stickers Alex received was $\\frac{3}{5}$ the total number of stickers. Alex received 120 more stickers than Charles.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [
+    {
+      "id": "a8570e66-14de-4aa0-a84e-00fd3e302a2a",
+      "question_number": "13a",
+      "parent_question_id": "85ae1f76-d709-465f-a82a-0277f16dfd94",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "What fraction of the stickers did Charles have?",
+        "text_latex": "What fraction of the stickers did Charles have?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 30,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    },
+    {
+      "id": "703b76e1-d68e-4cd7-82b6-df2eed1b7ebd",
+      "question_number": "13b",
+      "parent_question_id": "85ae1f76-d709-465f-a82a-0277f16dfd94",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "How many stickers did the boys have altogether?",
+        "text_latex": "How many stickers did the boys have altogether?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 3,
+      "subparts": [],
+      "source": {
+        "page_number": 30,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    }
+  ],
+  "source": {
+    "page_number": 30,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

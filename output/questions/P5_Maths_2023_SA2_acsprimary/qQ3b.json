@@ -1,0 +1,23 @@
+{
+  "id": "37451c35-562b-4c8c-a692-625c254999dc",
+  "question_number": "Q3b",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Determine the volume of the shaded shape shown on the grid, where each cube represents 1 cm³. [Diagram: A 3D shaded shape is shown on a grid of squares. The shape appears to be made of 13 unit cubes, forming an irregular L-shape or similar structure. Each square on the grid represents a unit cube.]",
+    "text_latex": "Determine the volume of the shaded shape shown on the grid, where each cube represents $1$ cm$^3$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 36,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.8
+}

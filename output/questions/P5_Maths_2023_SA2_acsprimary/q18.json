@@ -1,0 +1,23 @@
+{
+  "id": "85719164-05e4-45d1-bb39-4a8c4012d47d",
+  "question_number": "18",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Find the value of $\\frac{2}{9} \\times \\frac{3}{5}$. Give your answer in its simplest form.",
+    "text_latex": "Find the value of $\\frac{2}{9} \\times \\frac{3}{5}$. Give your answer in its simplest form.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": 1,
+  "subparts": [],
+  "source": {
+    "page_number": 10,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

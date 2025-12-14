@@ -1,0 +1,40 @@
+{
+  "id": "8b48d8d0-9cf0-4b2f-a721-36b27cb70940",
+  "question_number": "24",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "In the figure below, ACD is an isosceles triangle and BCD is a straight line. $\\angle ABC = 42^\\circ$ and $\\angle ADC = 70^\\circ$. Find $\\angle BAC$. [Diagram: A geometric figure showing points A, B, C, D. BCD is a straight line. Triangle ACD is an isosceles triangle with sides AC and AD marked as equal. Angle ADC is $70^\\circ$. Angle ABC is $42^\\circ$.]",
+    "text_latex": "In the figure below, ACD is an isosceles triangle and BCD is a straight line. $\\angle ABC = 42^\\circ$ and $\\angle ADC = 70^\\circ$. Find $\\angle BAC$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "fb3676ed",
+      "type": "DIAGRAM",
+      "alt_text": "A geometric figure showing a straight line BCD. Point A is positioned above the line. Triangle ACD is formed, with tick marks on sides AC and AD indicating they are equal in length, making it an isosceles triangle. Angle ADC is labeled as $70^\\circ$. Triangle ABC is also formed, with angle ABC labeled as $42^\\circ$. The vertices are clearly labeled A, B, C, D.",
+      "description": "A geometric figure showing a straight line BCD. Point A is positioned above the line. Triangle ACD is formed, with tick marks on sides AC and AD indicating they are equal in length, making it an isosceles triangle. Angle ADC is labeled as $70^\\circ$. Triangle ABC is also formed, with angle ABC labeled as $42^\\circ$. The vertices are clearly labeled A, B, C, D.",
+      "bounding_box": {
+        "x1": 22.0,
+        "y1": 52.0,
+        "x2": 61.0,
+        "y2": 66.0
+      },
+      "source_page": 13,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 13,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.95
+}

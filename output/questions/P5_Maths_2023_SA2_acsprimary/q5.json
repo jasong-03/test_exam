@@ -1,0 +1,23 @@
+{
+  "id": "8c6ad71b-f4c9-4a8c-aaef-d4626bc7f19d",
+  "question_number": "5",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Siti spent $\\frac{1}{3}$ of her money on a dress and $\\frac{1}{5}$ of her money on a handbag. She had $168 left. How much money did she spend on her handbag?",
+    "text_latex": "Siti spent $\\frac{1}{3}$ of her money on a dress and $\\frac{1}{5}$ of her money on a handbag. She had $168 left. How much money did she spend on her handbag?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 22,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.95
+}

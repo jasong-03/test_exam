@@ -1,0 +1,673 @@
+{
+  "run_id": "b9fd5479",
+  "pdf_path": "sample_pdf/P5_Maths_2023_SA2_acsprimary.pdf",
+  "start_time": "2025-12-14T08:13:02.940021",
+  "end_time": "2025-12-14T08:28:24.720164",
+  "processing_time_seconds": 921.78,
+  "total_tokens": 104218,
+  "total_input_tokens": 73138,
+  "total_output_tokens": 31080,
+  "total_cost_usd": 0.014809,
+  "questions_extracted": 47,
+  "diagrams_extracted": 25,
+  "pages_processed": 38,
+  "usage_by_agent": {
+    "Orchestrator": {
+      "input": 21850,
+      "output": 3548,
+      "calls": 38
+    },
+    "QuestionExtractor": {
+      "input": 48360,
+      "output": 19311,
+      "calls": 30
+    },
+    "AnswerKeyAgent": {
+      "input": 2928,
+      "output": 8221,
+      "calls": 3
+    }
+  },
+  "token_usage_details": [
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 101,
+      "total_tokens": 676,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:13:21.255054"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 78,
+      "total_tokens": 653,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:13:31.943909"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 71,
+      "total_tokens": 646,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:13:37.676096"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 77,
+      "total_tokens": 652,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:13:41.864475"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 69,
+      "total_tokens": 644,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:13:48.386749"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 77,
+      "total_tokens": 652,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:01.953615"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 67,
+      "total_tokens": 642,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:08.892915"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 73,
+      "total_tokens": 648,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:23.866599"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 111,
+      "total_tokens": 686,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:36.793701"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 77,
+      "total_tokens": 652,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:42.239190"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 75,
+      "total_tokens": 650,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:46.799112"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 86,
+      "total_tokens": 661,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:51.935136"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 77,
+      "total_tokens": 652,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:14:58.799338"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 92,
+      "total_tokens": 667,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:15:08.473520"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 75,
+      "total_tokens": 650,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:15:14.639291"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 92,
+      "total_tokens": 667,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:15:25.997949"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 88,
+      "total_tokens": 663,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:17:08.686814"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 141,
+      "total_tokens": 716,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:17:38.339663"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 126,
+      "total_tokens": 701,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:17:57.331204"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 86,
+      "total_tokens": 661,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:18:22.895709"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 100,
+      "total_tokens": 675,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:02.658091"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 77,
+      "total_tokens": 652,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:09.722822"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 87,
+      "total_tokens": 662,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:16.504439"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 71,
+      "total_tokens": 646,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:22.936090"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 93,
+      "total_tokens": 668,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:29.777903"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 89,
+      "total_tokens": 664,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:34.633546"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 93,
+      "total_tokens": 668,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:39.321965"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 94,
+      "total_tokens": 669,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:45.459186"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 99,
+      "total_tokens": 674,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:50.884806"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 96,
+      "total_tokens": 671,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:21:57.754849"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 87,
+      "total_tokens": 662,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:22:05.400575"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 120,
+      "total_tokens": 695,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:22:10.603966"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 100,
+      "total_tokens": 675,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:22:18.733005"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 108,
+      "total_tokens": 683,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:22:23.625365"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 77,
+      "total_tokens": 652,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:22:29.373062"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 120,
+      "total_tokens": 695,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:22:39.806962"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 187,
+      "total_tokens": 762,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:22:49.731037"
+    },
+    {
+      "agent": "Orchestrator",
+      "operation": "detect_page_type",
+      "input_tokens": 575,
+      "output_tokens": 111,
+      "total_tokens": 686,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:23:12.179495"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 724,
+      "total_tokens": 2336,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:23:18.946703"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 760,
+      "total_tokens": 2372,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:23:25.884768"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 751,
+      "total_tokens": 2363,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:23:33.130547"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 1192,
+      "total_tokens": 2804,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:23:42.628841"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 914,
+      "total_tokens": 2526,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:23:52.054107"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 1013,
+      "total_tokens": 2625,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:02.328958"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 574,
+      "total_tokens": 2186,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:07.823957"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 398,
+      "total_tokens": 2010,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:14.149032"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 315,
+      "total_tokens": 1927,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:18.987263"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 392,
+      "total_tokens": 2004,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:25.340733"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 617,
+      "total_tokens": 2229,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:34.192492"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 589,
+      "total_tokens": 2201,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:41.062052"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 679,
+      "total_tokens": 2291,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:48.476427"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 593,
+      "total_tokens": 2205,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:24:56.643181"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 532,
+      "total_tokens": 2144,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:02.508645"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 929,
+      "total_tokens": 2541,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:10.366168"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 823,
+      "total_tokens": 2435,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:17.972997"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 930,
+      "total_tokens": 2542,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:29.041647"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 582,
+      "total_tokens": 2194,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:37.415581"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 266,
+      "total_tokens": 1878,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:43.196495"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 255,
+      "total_tokens": 1867,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:47.601251"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 555,
+      "total_tokens": 2167,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:25:55.167629"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 704,
+      "total_tokens": 2316,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:06.816434"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 402,
+      "total_tokens": 2014,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:12.185523"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 385,
+      "total_tokens": 1997,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:17.274058"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 398,
+      "total_tokens": 2010,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:22.448190"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 239,
+      "total_tokens": 1851,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:28.894405"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 698,
+      "total_tokens": 2310,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:35.884863"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 772,
+      "total_tokens": 2384,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:46.072922"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1612,
+      "output_tokens": 1330,
+      "total_tokens": 2942,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:26:56.351130"
+    },
+    {
+      "agent": "AnswerKeyAgent",
+      "operation": "extract_answers",
+      "input_tokens": 976,
+      "output_tokens": 2119,
+      "total_tokens": 3095,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:27:10.858904"
+    },
+    {
+      "agent": "AnswerKeyAgent",
+      "operation": "extract_answers",
+      "input_tokens": 976,
+      "output_tokens": 3202,
+      "total_tokens": 4178,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:27:51.782614"
+    },
+    {
+      "agent": "AnswerKeyAgent",
+      "operation": "extract_answers",
+      "input_tokens": 976,
+      "output_tokens": 2900,
+      "total_tokens": 3876,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-14T08:28:24.710261"
+    }
+  ],
+  "errors": []
+}

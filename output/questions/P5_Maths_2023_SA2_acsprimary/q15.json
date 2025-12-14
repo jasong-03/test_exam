@@ -1,0 +1,70 @@
+{
+  "id": "19b86abf-6073-4476-8949-5d91f7c7f011",
+  "question_number": "15",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Container A measuring 30 cm by 16 cm by 15 cm was completely filled with water at first. Container B is a cubical tank of edge 10 cm. Ravi poured some of the water from Container A into Container B to fill it completely. [Diagram: Two containers are shown. Container A is a rectangular prism (cuboid) with dimensions labeled as 30 cm (length), 16 cm (width), and 15 cm (height). Container B is a cube with an edge length of 10 cm. An arrow indicates water being transferred from Container A to Container B.]",
+    "text_latex": "Container A measuring $30 \\text{ cm}$ by $16 \\text{ cm}$ by $15 \\text{ cm}$ was completely filled with water at first. Container B is a cubical tank of edge $10 \\text{ cm}$. Ravi poured some of the water from Container A into Container B to fill it completely.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [
+    {
+      "id": "fe9b3ba1-dca0-455c-bdd3-e554673b6065",
+      "question_number": "15a",
+      "parent_question_id": "19b86abf-6073-4476-8949-5d91f7c7f011",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "How much water was left in Container A?",
+        "text_latex": "How much water was left in Container A?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [],
+      "source": {
+        "page_number": 32,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    },
+    {
+      "id": "fc1c4dbf-dff5-4d26-ace8-1b0b3b169237",
+      "question_number": "15b",
+      "parent_question_id": "19b86abf-6073-4476-8949-5d91f7c7f011",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "After Ravi used some water to water his plants, he had 5150 ml of water left. How much water did Ravi use to water his plants? Give your answer in litres.",
+        "text_latex": "After Ravi used some water to water his plants, he had $5150 \\text{ ml}$ of water left. How much water did Ravi use to water his plants? Give your answer in litres.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [],
+      "source": {
+        "page_number": 32,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    }
+  ],
+  "source": {
+    "page_number": 32,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

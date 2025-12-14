@@ -1,0 +1,23 @@
+{
+  "id": "7d0e6c3a-6276-4735-af06-2c5f8d0f64b5",
+  "question_number": "23",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "A box can hold either 12 big cubes or 48 small cubes. Keane put 6 big cubes and 7 small cubes in the box. How many more small cubes can Keane put into the box?",
+    "text_latex": "A box can hold either 12 big cubes or 48 small cubes. Keane put 6 big cubes and 7 small cubes in the box. How many more small cubes can Keane put into the box?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 13,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.95
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a98323d7-ada0-4d9d-9c94-9d5d768ca19d",
+  "question_number": "9",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The figure below is made up of square ABDE and triangle CDE. The area of square ABDE is $64 \\text{ cm}^2$ and the height of triangle CDE is $20 \\text{ cm}$. Find the area of the shaded triangle CBD. [Diagram: A composite geometric figure is shown, consisting of a square ABDE and a triangle CDE. The vertices are labeled A, B, C, D, E. Square ABDE is on the left. Triangle CDE extends to the right and upwards from the base DE. A vertical dashed line extends from C downwards to the line containing DE, forming a right angle, and its length is labeled as 20 cm, representing the height of triangle CDE. The triangle CBD is shaded.]",
+    "text_latex": "The figure below is made up of square ABDE and triangle CDE. The area of square ABDE is $64 \\text{ cm}^2$ and the height of triangle CDE is $20 \\text{ cm}$. Find the area of the shaded triangle CBD.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "e46bff13",
+      "type": "DIAGRAM",
+      "alt_text": "A composite geometric figure consisting of a square ABDE and a triangle CDE. The square ABDE has vertices A, B, D, E. Point C is located such that triangle CDE is formed. A vertical dashed line from C to the line containing DE indicates the height of triangle CDE, which is labeled as 20 cm. A right angle symbol is shown at the base of this height. The triangle CBD, formed by vertices C, B, and D, is shaded.",
+      "description": "A composite geometric figure consisting of a square ABDE and a triangle CDE. The square ABDE has vertices A, B, D, E. Point C is located such that triangle CDE is formed. A vertical dashed line from C to the line containing DE indicates the height of triangle CDE, which is labeled as 20 cm. A right angle symbol is shown at the base of this height. The triangle CBD, formed by vertices C, B, and D, is shaded.",
+      "bounding_box": {
+        "x1": 24.0,
+        "y1": 28.0,
+        "x2": 58.0,
+        "y2": 45.0
+      },
+      "source_page": 26,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": 3,
+  "subparts": [],
+  "source": {
+    "page_number": 26,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

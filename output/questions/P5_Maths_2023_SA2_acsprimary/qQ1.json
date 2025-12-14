@@ -1,0 +1,23 @@
+{
+  "id": "5f6db550-2734-4f41-870f-12db6697fcd1",
+  "question_number": "Q1",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "7500 ml ÷ 6 = 1250 ml = 1.25 ℓ",
+    "text_latex": "$7500 \\text{ ml} \\div 6 = 1250 \\text{ ml} = 1.25 \\ell$",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "TRUE_FALSE",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 35,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.6
+}

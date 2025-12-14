@@ -1,0 +1,70 @@
+{
+  "id": "3041824f-190f-4598-b452-09883aed96be",
+  "question_number": "3",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The solid below is made up of 1-cm cubes. [Diagram: A 3D isometric drawing of a solid object constructed from 1-cm cubes. The solid has a base that appears to be 3 units wide and 3 units deep. From the front, it has a shape that rises in steps. An arrow points to the front view, indicating the perspective for part (b). The solid consists of 10 cubes: a bottom layer with 3 cubes in the front row, 2 in the middle, and 1 in the back; a second layer with 2 cubes in the front row and 1 in the middle; and a top layer with 1 cube in the front row.]",
+    "text_latex": "The solid below is made up of 1-cm cubes.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "LONG_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [
+    {
+      "id": "30ce844a-663a-4f68-a1cc-217de2a0c0c5",
+      "question_number": "3a",
+      "parent_question_id": "3041824f-190f-4598-b452-09883aed96be",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "What is the volume of the solid?",
+        "text_latex": "What is the volume of the solid?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "SHORT_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 21,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.95
+    },
+    {
+      "id": "3891893e-81f6-4168-b8b4-1a19b5559798",
+      "question_number": "3b",
+      "parent_question_id": "3041824f-190f-4598-b452-09883aed96be",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "Draw the front view of the solid on the square grid below. [Diagram: A 6x4 square grid is provided for drawing the front view of the solid.]",
+        "text_latex": "Draw the front view of the solid on the square grid below.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 21,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.95
+    }
+  ],
+  "source": {
+    "page_number": 21,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

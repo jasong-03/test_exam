@@ -1,0 +1,366 @@
+{
+  "run_id": "73789f16",
+  "pdf_path": "sample_pdf/P5_Maths_2023_SA2_acsprimary.pdf",
+  "start_time": "2025-12-13T18:37:10.237679",
+  "end_time": "2025-12-13T18:42:56.879358",
+  "processing_time_seconds": 346.64,
+  "total_tokens": 97902,
+  "total_input_tokens": 72314,
+  "total_output_tokens": 25588,
+  "total_cost_usd": 0.0131,
+  "questions_extracted": 50,
+  "diagrams_extracted": 26,
+  "pages_processed": 38,
+  "usage_by_agent": {
+    "QuestionExtractor": {
+      "input": 72314,
+      "output": 25588,
+      "calls": 38
+    }
+  },
+  "token_usage_details": [
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 76,
+      "total_tokens": 1979,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:37:18.638589"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 737,
+      "total_tokens": 2640,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:37:27.935519"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 799,
+      "total_tokens": 2702,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:37:37.117164"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 769,
+      "total_tokens": 2672,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:37:44.207015"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 1168,
+      "total_tokens": 3071,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:37:53.064510"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 1093,
+      "total_tokens": 2996,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:38:08.681484"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 1042,
+      "total_tokens": 2945,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:38:19.172131"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 566,
+      "total_tokens": 2469,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:38:27.765050"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 108,
+      "total_tokens": 2011,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:38:31.517710"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 467,
+      "total_tokens": 2370,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:38:38.293004"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 341,
+      "total_tokens": 2244,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:38:45.058459"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 386,
+      "total_tokens": 2289,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:38:51.377804"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 702,
+      "total_tokens": 2605,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:02.393756"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 698,
+      "total_tokens": 2601,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:10.855274"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 695,
+      "total_tokens": 2598,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:19.806938"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 527,
+      "total_tokens": 2430,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:26.704885"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 582,
+      "total_tokens": 2485,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:34.685619"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 72,
+      "total_tokens": 1975,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:37.376148"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 92,
+      "total_tokens": 1995,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:40.853625"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 726,
+      "total_tokens": 2629,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:47.932500"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 753,
+      "total_tokens": 2656,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:39:54.484989"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 966,
+      "total_tokens": 2869,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:06.548409"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 605,
+      "total_tokens": 2508,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:13.766647"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 291,
+      "total_tokens": 2194,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:18.654944"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 272,
+      "total_tokens": 2175,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:23.735544"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 566,
+      "total_tokens": 2469,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:31.083035"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 684,
+      "total_tokens": 2587,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:40.978849"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 426,
+      "total_tokens": 2329,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:46.815731"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 422,
+      "total_tokens": 2325,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:52.394535"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 466,
+      "total_tokens": 2369,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:40:57.664907"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 263,
+      "total_tokens": 2166,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:41:02.149925"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 753,
+      "total_tokens": 2656,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:41:10.909773"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 842,
+      "total_tokens": 2745,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:41:20.578315"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 1073,
+      "total_tokens": 2976,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:41:37.961600"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 1731,
+      "total_tokens": 3634,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:41:51.001788"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 1440,
+      "total_tokens": 3343,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:42:20.553481"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 2317,
+      "total_tokens": 4220,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:42:54.491813"
+    },
+    {
+      "agent": "QuestionExtractor",
+      "operation": "extract_questions",
+      "input_tokens": 1903,
+      "output_tokens": 72,
+      "total_tokens": 1975,
+      "model": "gemini-2.5-flash",
+      "timestamp": "2025-12-13T18:42:56.876655"
+    }
+  ],
+  "errors": []
+}

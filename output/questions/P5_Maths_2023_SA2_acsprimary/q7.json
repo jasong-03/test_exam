@@ -1,0 +1,23 @@
+{
+  "id": "a07fabdf-8994-4d42-b02f-fdac919e71a3",
+  "question_number": "7",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "There are some paper clips in a box. $\\frac{4}{5}$ of them are blue. $\\frac{3}{4}$ of the remaining paper clips are red and the rest are yellow. There are 48 red paper clips. How many paper clips are there in the box?",
+    "text_latex": "There are some paper clips in a box. $\\frac{4}{5}$ of them are blue. $\\frac{3}{4}$ of the remaining paper clips are red and the rest are yellow. There are 48 red paper clips. How many paper clips are there in the box?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": 3,
+  "subparts": [],
+  "source": {
+    "page_number": 24,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

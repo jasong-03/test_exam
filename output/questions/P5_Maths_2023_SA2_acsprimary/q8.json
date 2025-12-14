@@ -1,0 +1,23 @@
+{
+  "id": "a6475d2f-3d0c-416d-bfeb-103c4d52917d",
+  "question_number": "8",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "There was a total of 185 mugs and cups in a shop. There were 4 times as many mugs as cups. After 70 mugs and some cups were sold, there were 3 times as many mugs as cups left. How many cups were left?",
+    "text_latex": "There was a total of 185 mugs and cups in a shop. There were 4 times as many mugs as cups. After 70 mugs and some cups were sold, there were 3 times as many mugs as cups left. How many cups were left?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": 3,
+  "subparts": [],
+  "source": {
+    "page_number": 25,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

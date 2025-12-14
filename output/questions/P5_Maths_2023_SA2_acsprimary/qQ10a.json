@@ -1,0 +1,23 @@
+{
+  "id": "06ea7d48-ebcc-4346-937a-1502da376e7c",
+  "question_number": "Q10a",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Identify the period 'May to June'.",
+    "text_latex": "Identify the period 'May to June'.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 36,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.7
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3250e4d3-f7b5-49e0-b806-4582c68ea1f9",
+  "question_number": "27",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "In the figure below, ACDE is a parallelogram. $\\angle AEB = 36^\\circ$ and $\\angle CBE = 157^\\circ$. Find $\\angle BCD$. [Diagram: A geometric figure is shown. It depicts a parallelogram ACDE. A line segment BE is drawn from vertex B to vertex E, forming a triangle ABE. Another line segment AB is drawn. The angle $\\angle AEB$ is marked as $36^\\circ$. The angle $\\angle CBE$ is marked as $157^\\circ$. The vertices are labeled A, B, C, D, E.]",
+    "text_latex": "In the figure below, ACDE is a parallelogram. $\\angle AEB = 36^\\circ$ and $\\angle CBE = 157^\\circ$. Find $\\angle BCD$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "63e3643a",
+      "type": "DIAGRAM",
+      "alt_text": "A geometric figure showing a quadrilateral ACDE, which is stated to be a parallelogram. A diagonal BE is drawn from vertex B to vertex E. Another line segment AB is drawn. The vertices are labeled A, B, C, D, E. Angle $\\angle AEB$ is marked as $36^\\circ$. Angle $\\angle CBE$ is marked as $157^\\circ$.",
+      "description": "A geometric figure showing a quadrilateral ACDE, which is stated to be a parallelogram. A diagonal BE is drawn from vertex B to vertex E. Another line segment AB is drawn. The vertices are labeled A, B, C, D, E. Angle $\\angle AEB$ is marked as $36^\\circ$. Angle $\\angle CBE$ is marked as $157^\\circ$.",
+      "bounding_box": {
+        "x1": 20.0,
+        "y1": 15.0,
+        "x2": 60.0,
+        "y2": 30.0
+      },
+      "source_page": 15,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 15,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

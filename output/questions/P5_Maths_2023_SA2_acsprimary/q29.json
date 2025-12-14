@@ -1,0 +1,40 @@
+{
+  "id": "423c9a90-58b8-486e-beb7-645a86e915f0",
+  "question_number": "29",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "In the figure below, ABD is an equilateral triangle and ABCE is a trapezium. CDE is a straight line and $\\angle DAE = 49^\\circ$. Find $\\angle CBD$. [Diagram: A geometric figure is shown. It consists of an equilateral triangle ABD and a trapezium ABCE. Points are labeled A, B, C, D, E. Point A is at the top-left, B at the top-right, E at the bottom-left, D on the base line between E and C, and C at the bottom-right. Line segments AE and BC are vertical and parallel, indicated by single arrows on them, forming the non-parallel sides of the trapezium ABCE. The base EC is horizontal. Triangle ABD is formed by connecting A, B, and D. An angle of $49^\\circ$ is marked at vertex A, specifically for $\\angle DAE$.]",
+    "text_latex": "In the figure below, ABD is an equilateral triangle and ABCE is a trapezium. CDE is a straight line and $\\angle DAE = 49^\\circ$. Find $\\angle CBD$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "ec706af0",
+      "type": "DIAGRAM",
+      "alt_text": "A geometric figure showing a composite shape. It includes an equilateral triangle ABD and a trapezium ABCE. The vertices are labeled A, B, C, D, E. A is top-left, B is top-right. E is bottom-left, D is on the horizontal line segment EC, and C is bottom-right. Line segments AE and BC are vertical and parallel (indicated by single arrows). The line segment EC is horizontal. An angle of $49^\\circ$ is marked at $\\angle DAE$.",
+      "description": "A geometric figure showing a composite shape. It includes an equilateral triangle ABD and a trapezium ABCE. The vertices are labeled A, B, C, D, E. A is top-left, B is top-right. E is bottom-left, D is on the horizontal line segment EC, and C is bottom-right. Line segments AE and BC are vertical and parallel (indicated by single arrows). The line segment EC is horizontal. An angle of $49^\\circ$ is marked at $\\angle DAE$.",
+      "bounding_box": {
+        "x1": 20.0,
+        "y1": 18.0,
+        "x2": 45.0,
+        "y2": 36.0
+      },
+      "source_page": 16,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 16,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

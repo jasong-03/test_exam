@@ -1,0 +1,23 @@
+{
+  "id": "412d146c-ea21-4856-9fd8-2967823262ad",
+  "question_number": "Q17a",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "State the value: 19.",
+    "text_latex": "State the value: 19.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 37,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.6
+}

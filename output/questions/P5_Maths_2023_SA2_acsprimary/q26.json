@@ -1,0 +1,40 @@
+{
+  "id": "2eeb3a7a-e89c-4fa9-a55d-b563a1496de1",
+  "question_number": "26",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The table below shows the number of pages of a book Anna read from Monday to Friday. [Diagram: A table titled 'Day' and 'Number of pages' with columns for Mon, Tue, Wed, Thu, Fri. The 'Number of pages' row shows 6 for Mon, 5 for Tue, 8 for Wed, 7 for Thu, and '?' for Fri.] Anna read an average of 8 pages from Monday to Friday. How many pages did she read on Friday?",
+    "text_latex": "The table below shows the number of pages of a book Anna read from Monday to Friday. Anna read an average of 8 pages from Monday to Friday. How many pages did she read on Friday?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "65a70c9e",
+      "type": "TABLE",
+      "alt_text": "A table with two rows and six columns. The first row contains headers: 'Day', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The second row contains 'Number of pages' and then values for each day: '6' for Mon, '5' for Tue, '8' for Wed, '7' for Thu, and '?' for Fri.",
+      "description": "A table with two rows and six columns. The first row contains headers: 'Day', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The second row contains 'Number of pages' and then values for each day: '6' for Mon, '5' for Tue, '8' for Wed, '7' for Thu, and '?' for Fri.",
+      "bounding_box": {
+        "x1": 21.5,
+        "y1": 52.0,
+        "x2": 79.5,
+        "y2": 57.0
+      },
+      "source_page": 14,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 14,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

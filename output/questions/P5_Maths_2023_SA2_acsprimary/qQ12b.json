@@ -1,0 +1,23 @@
+{
+  "id": "215e10b8-5cbd-4925-9fed-438fb184ecd7",
+  "question_number": "Q12b",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "State the value: 172.",
+    "text_latex": "State the value: 172.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 37,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.6
+}

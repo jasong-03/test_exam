@@ -1,0 +1,23 @@
+{
+  "id": "dd176d20-410c-4489-8b45-20ef89522718",
+  "question_number": "Q6",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Calculate the angles $\\angle CED$ and $\\angle CDE$ based on the given operations: $\\angle CED = 97^\\circ - 56^\\circ = 41^\\circ$ and $\\angle CDE = 180^\\circ - 41^\\circ - 90^\\circ = 49^\\circ$.",
+    "text_latex": "Calculate the angles $\\angle CED$ and $\\angle CDE$ based on the given operations: $\\angle CED = 97^\\circ - 56^\\circ = 41^\\circ$ and $\\angle CDE = 180^\\circ - 41^\\circ - 90^\\circ = 49^\\circ$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 36,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.9
+}

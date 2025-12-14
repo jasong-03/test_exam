@@ -1,0 +1,40 @@
+{
+  "id": "a3daea1e-a176-47fa-98a5-0d7c5bd2b685",
+  "question_number": "6",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "In the figure below, ABCE is a rhombus and CDE is a right-angled triangle. $\\angle ABC = 56^\\circ$ and $\\angle AED = 97^\\circ$. Find $\\angle CDE$. [Diagram: A composite geometric figure is shown. It consists of a rhombus ABCE and a right-angled triangle CDE. The rhombus ABCE has all four sides (AB, BC, CE, EA) marked with single tick marks, indicating they are of equal length. Angle ABC is labeled as $56^\\circ$. The triangle CDE is attached to side CE of the rhombus. Angle ECD is marked with a right-angle symbol ($90^\\circ$). Angle AED, which is an exterior angle to the rhombus at vertex E, is labeled as $97^\\circ$. The vertices are labeled A, B, C, D, E.]",
+    "text_latex": "In the figure below, ABCE is a rhombus and CDE is a right-angled triangle. $\\angle ABC = 56^\\circ$ and $\\angle AED = 97^\\circ$. Find $\\angle CDE$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "0e5bb2cb",
+      "type": "DIAGRAM",
+      "alt_text": "A composite geometric figure showing a rhombus ABCE and a right-angled triangle CDE. The rhombus ABCE has sides AB, BC, CE, EA marked with single tick marks, indicating equal length. Angle ABC is labeled as 56 degrees. The triangle CDE is connected to the rhombus at C and E. Angle ECD is marked as a right angle (90 degrees). Angle AED is labeled as 97 degrees. The vertices are labeled A, B, C, D, E.",
+      "description": "A composite geometric figure showing a rhombus ABCE and a right-angled triangle CDE. The rhombus ABCE has sides AB, BC, CE, EA marked with single tick marks, indicating equal length. Angle ABC is labeled as 56 degrees. The triangle CDE is connected to the rhombus at C and E. Angle ECD is marked as a right angle (90 degrees). Angle AED is labeled as 97 degrees. The vertices are labeled A, B, C, D, E.",
+      "bounding_box": {
+        "x1": 20.0,
+        "y1": 23.0,
+        "x2": 60.0,
+        "y2": 49.0
+      },
+      "source_page": 23,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": 3,
+  "subparts": [],
+  "source": {
+    "page_number": 23,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

@@ -1,0 +1,2283 @@
+{
+  "metadata": {
+    "id": "ea47a8aa-8b27-486f-828d-c3e7e495c70e",
+    "source_file": "P5_Maths_2023_SA2_acsprimary.pdf",
+    "subject": "MATHEMATICS",
+    "grade_level": "P5",
+    "exam_type": "SA2",
+    "school": "acsprimary",
+    "year": 2023,
+    "total_marks": null,
+    "duration_minutes": null,
+    "extracted_at": "2025-12-14T08:13:07.551742",
+    "extraction_confidence": 0.0
+  },
+  "questions": [
+    {
+      "id": "61f8f114-fcbf-4f93-9fe2-7ee74c27f7f0",
+      "question_number": "1",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Which one of the following is sixty-three thousand and forty in numerals?",
+        "text_latex": "Which one of the following is sixty-three thousand and forty in numerals?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "6340",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "63 040",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "63 400",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "630 040",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 2,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "d7cc2258-ae04-45e0-8873-83b4c17c5509",
+      "question_number": "2",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The figure below is made up of 20 identical small rectangles. What percentage of the figure is shaded? [Diagram: A grid of 20 identical small rectangles arranged in 4 rows and 5 columns. Four of these rectangles are shaded black: three in the first row and one in the second row.]",
+        "text_latex": "The figure below is made up of 20 identical small rectangles. What percentage of the figure is shaded?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "35%",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "20%",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "3%",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "7%",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [
+        {
+          "id": "b4c14a54",
+          "type": "DIAGRAM",
+          "alt_text": "A grid composed of 20 identical small rectangles. The grid is arranged in 4 rows and 5 columns. Four of these rectangles are shaded black: three in the top row (columns 1, 2, 3) and one in the second row (column 1). The remaining 16 rectangles are unshaded.",
+          "description": "A grid composed of 20 identical small rectangles. The grid is arranged in 4 rows and 5 columns. Four of these rectangles are shaded black: three in the top row (columns 1, 2, 3) and one in the second row (column 1). The remaining 16 rectangles are unshaded.",
+          "bounding_box": {
+            "x1": 26.9,
+            "y1": 47.2,
+            "x2": 50.1,
+            "y2": 57.9
+          },
+          "source_page": 2,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 2,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "3860f756-d93e-4e23-bbe5-f53e5eb02617",
+      "question_number": "3",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Which of the following is equal to $4 \\frac{5}{7}$?",
+        "text_latex": "Which of the following is equal to $4 \\frac{5}{7}$?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "$\\frac{20}{7}$",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "$\\frac{27}{7}$",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "$\\frac{33}{7}$",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "$\\frac{45}{7}$",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 3,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "0d61b5ac-bd04-41b5-815d-d4d1cfa5fdd3",
+      "question_number": "4",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Given that AD is the base of triangle ABD. Identify the height that is related to the base AD. [Diagram: A triangle ABD is shown. Point A is at the top, D is on the left base, and B is on the right base. A dashed line segment AC is drawn from A to a point C on DB, forming a right angle at C. Another dashed line segment DE is drawn from D to a point E on AB, forming a right angle at E.]",
+        "text_latex": "Given that AD is the base of triangle ABD. Identify the height that is related to the base AD.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "AB",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "AC",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "BD",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "BE",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 3,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "350232a7-513f-40af-abe1-fc63fb1c48f2",
+      "question_number": "5",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "What is the value of the digit 5 in 50 146?",
+        "text_latex": "What is the value of the digit 5 in 50 146?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "50",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "500",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "5000",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "50 000",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 4,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "d4d82262-cf9c-4499-bfec-b5b0554f04e9",
+      "question_number": "6",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Mrs Tan bought 4 kg of vegetables. She cooked $\\frac{5}{8}$ of them. How many kilograms of vegetables did she have left?",
+        "text_latex": "Mrs Tan bought 4 kg of vegetables. She cooked $\\frac{5}{8}$ of them. How many kilograms of vegetables did she have left?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "$1\\frac{1}{2}$ kg",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "$2\\frac{1}{2}$ kg",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "$3\\frac{5}{8}$ kg",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "$4\\frac{3}{8}$ kg",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 4,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "d84c0f06-06af-41a4-8199-1da6bcae17c1",
+      "question_number": "7",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Which of the following numbers is the smallest?",
+        "text_latex": "Which of the following numbers is the smallest?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "0.13",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "0.31",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "0.103",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "0.301",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 4,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "262ca26c-5c10-4899-a398-c7ae5b96bc9a",
+      "question_number": "8",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "In the figure below, AE, BF and CG are straight lines. Which two angles are equal? [Diagram: A geometric figure showing three intersecting straight lines AE, BF, and CG. These lines intersect at a central point. Angles formed by these intersections are labeled 'a', 'b', 'c', and 'd'. Specifically, angle 'a' is formed by lines CG and AE in the bottom-left quadrant. Angle 'b' is formed by lines AE and BF in the top-left quadrant. Angle 'c' is formed by lines BF and CG in the top-right quadrant. Angle 'd' is formed by lines CG and AE in the bottom-right quadrant. The endpoints of the lines are labeled A, B, C, D, E, F, G.]",
+        "text_latex": "In the figure below, AE, BF and CG are straight lines. Which two angles are equal?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "$\\angle a$ and $\\angle c$",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "$\\angle a$ and $\\angle d$",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "$\\angle b$ and $\\angle c$",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "$\\angle b$ and $\\angle d$",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [
+        {
+          "id": "084ecc76",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing three intersecting straight lines AE, BF, and CG. These lines intersect at a central point. Angles formed by these intersections are labeled 'a', 'b', 'c', and 'd'. Specifically, angle 'a' is formed by lines CG and AE in the bottom-left quadrant. Angle 'b' is formed by lines AE and BF in the top-left quadrant. Angle 'c' is formed by lines BF and CG in the top-right quadrant. Angle 'd' is formed by lines CG and AE in the bottom-right quadrant. The endpoints of the lines are labeled A, B, C, D, E, F, G.",
+          "description": "A geometric figure showing three intersecting straight lines AE, BF, and CG. These lines intersect at a central point. Angles formed by these intersections are labeled 'a', 'b', 'c', and 'd'. Specifically, angle 'a' is formed by lines CG and AE in the bottom-left quadrant. Angle 'b' is formed by lines AE and BF in the top-left quadrant. Angle 'c' is formed by lines BF and CG in the top-right quadrant. Angle 'd' is formed by lines CG and AE in the bottom-right quadrant. The endpoints of the lines are labeled A, B, C, D, E, F, G.",
+          "bounding_box": {
+            "x1": 27.0,
+            "y1": 16.0,
+            "x2": 55.0,
+            "y2": 32.0
+          },
+          "source_page": 5,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        },
+        {
+          "id": "65397dd7",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing several angles around a central point. Two perpendicular lines (one vertical, one horizontal) intersect at the center, indicated by a right-angle square symbol in the top-right quadrant. Other lines radiate from the center. Angles are labeled: 100° in the top-left quadrant, angle 'a' in the bottom-left quadrant, 60° in the bottom-left quadrant adjacent to 'a', and 85° in the bottom-right quadrant.",
+          "description": "A geometric figure showing several angles around a central point. Two perpendicular lines (one vertical, one horizontal) intersect at the center, indicated by a right-angle square symbol in the top-right quadrant. Other lines radiate from the center. Angles are labeled: 100° in the top-left quadrant, angle 'a' in the bottom-left quadrant, 60° in the bottom-left quadrant adjacent to 'a', and 85° in the bottom-right quadrant.",
+          "bounding_box": {
+            "x1": 30.0,
+            "y1": 52.0,
+            "x2": 57.0,
+            "y2": 68.0
+          },
+          "source_page": 5,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 5,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "d335cf80-8c42-46ac-b7fd-2840c232277f",
+      "question_number": "9",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Find $\\angle a$ in the figure shown below. [Diagram: A geometric figure showing several angles around a central point. Two perpendicular lines (one vertical, one horizontal) intersect at the center, indicated by a right-angle square symbol in the top-right quadrant. Other lines radiate from the center. Angles are labeled: 100° in the top-left quadrant, angle 'a' in the bottom-left quadrant, 60° in the bottom-left quadrant adjacent to 'a', and 85° in the bottom-right quadrant.]",
+        "text_latex": "Find $\\angle a$ in the figure shown below.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "20°",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "25°",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "30°",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "35°",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [
+        {
+          "id": "084ecc76",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing three intersecting straight lines AE, BF, and CG. These lines intersect at a central point. Angles formed by these intersections are labeled 'a', 'b', 'c', and 'd'. Specifically, angle 'a' is formed by lines CG and AE in the bottom-left quadrant. Angle 'b' is formed by lines AE and BF in the top-left quadrant. Angle 'c' is formed by lines BF and CG in the top-right quadrant. Angle 'd' is formed by lines CG and AE in the bottom-right quadrant. The endpoints of the lines are labeled A, B, C, D, E, F, G.",
+          "description": "A geometric figure showing three intersecting straight lines AE, BF, and CG. These lines intersect at a central point. Angles formed by these intersections are labeled 'a', 'b', 'c', and 'd'. Specifically, angle 'a' is formed by lines CG and AE in the bottom-left quadrant. Angle 'b' is formed by lines AE and BF in the top-left quadrant. Angle 'c' is formed by lines BF and CG in the top-right quadrant. Angle 'd' is formed by lines CG and AE in the bottom-right quadrant. The endpoints of the lines are labeled A, B, C, D, E, F, G.",
+          "bounding_box": {
+            "x1": 27.0,
+            "y1": 16.0,
+            "x2": 55.0,
+            "y2": 32.0
+          },
+          "source_page": 5,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        },
+        {
+          "id": "65397dd7",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing several angles around a central point. Two perpendicular lines (one vertical, one horizontal) intersect at the center, indicated by a right-angle square symbol in the top-right quadrant. Other lines radiate from the center. Angles are labeled: 100° in the top-left quadrant, angle 'a' in the bottom-left quadrant, 60° in the bottom-left quadrant adjacent to 'a', and 85° in the bottom-right quadrant.",
+          "description": "A geometric figure showing several angles around a central point. Two perpendicular lines (one vertical, one horizontal) intersect at the center, indicated by a right-angle square symbol in the top-right quadrant. Other lines radiate from the center. Angles are labeled: 100° in the top-left quadrant, angle 'a' in the bottom-left quadrant, 60° in the bottom-left quadrant adjacent to 'a', and 85° in the bottom-right quadrant.",
+          "bounding_box": {
+            "x1": 30.0,
+            "y1": 52.0,
+            "x2": 57.0,
+            "y2": 68.0
+          },
+          "source_page": 5,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 5,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "d043eb2c-f548-4eb6-9b18-9b244a127ecb",
+      "question_number": "10",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Tina drew a boat using circles, triangles and rectangles. What is the ratio of the number of circles to the total number of triangles and rectangles? Give your answer in its simplest form. [Diagram: A line drawing of a boat is shown. The boat's hull is a trapezoid. It has a mast (a vertical rectangle) with a triangular sail. On the deck, there are three stacked rectangles forming a cabin-like structure. The hull also features three circular windows.]",
+        "text_latex": "Tina drew a boat using circles, triangles and rectangles. What is the ratio of the number of circles to the total number of triangles and rectangles? Give your answer in its simplest form.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "1 : 1",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "2 : 3",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "2 : 5",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "5 : 2",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 6,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "8736db0b-e07b-4bb0-8060-ccbeb669f559",
+      "question_number": "11",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "A solid cuboid height 10 cm has a square base of side 2 cm. What is its volume? [Diagram: A 3D isometric drawing of a cuboid. The height of the cuboid is labeled '10 cm' along one vertical edge. The side length of the square base is labeled '2 cm' along one edge of the base.]",
+        "text_latex": "A solid cuboid height 10 cm has a square base of side 2 cm. What is its volume?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "20 cm³",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "40 cm³",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "120 cm³",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "200 cm³",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 6,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "d2e3874a-f024-41da-8b81-9dbef8af39da",
+      "question_number": "12",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The table shows the prices for a farm tour. A group went for the farm tour and paid $160. How many tickets did the group buy? [Diagram: A table titled 'The table shows the prices for a farm tour.' It has two columns: 'Quantity' and 'Price'. The first row under the headers states 'First 10 tickets' with a price of '$8 each'. The second row states 'Every additional ticket' with a price of '$5'.]",
+        "text_latex": "The table shows the prices for a farm tour. A group went for the farm tour and paid $160. How many tickets did the group buy?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "16",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "20",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "26",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "32",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 7,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "7cf87cf9-94f3-409b-ad60-f115763501b8",
+      "question_number": "13",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "In the figure below, ACD and BCE are straight lines. Find $\\angle CDE$. [Diagram: A geometric figure showing two intersecting straight lines ACD and BCE. Point A is to the bottom left, B to the top left, C at the intersection, D to the top right, and E to the bottom right. Triangle ABC has angle B labeled as $35^\\circ$ and angle A marked with a right angle symbol ($90^\\circ$). Triangle CDE has angle E labeled as $64^\\circ$.]",
+        "text_latex": "In the figure below, ACD and BCE are straight lines. Find $\\angle CDE$.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "$61^\\circ$",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "$55^\\circ$",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "$29^\\circ$",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "$26^\\circ$",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [
+        {
+          "id": "5aebcf98",
+          "type": "TABLE",
+          "alt_text": "A table with two columns, 'Quantity' and 'Price'. The 'Quantity' column has 'First 10 tickets' and 'Every additional ticket'. The 'Price' column has '$8 each' and '$5' corresponding to the quantities.",
+          "description": "A table with two columns, 'Quantity' and 'Price'. The 'Quantity' column has 'First 10 tickets' and 'Every additional ticket'. The 'Price' column has '$8 each' and '$5' corresponding to the quantities.",
+          "bounding_box": {
+            "x1": 24.0,
+            "y1": 13.0,
+            "x2": 69.0,
+            "y2": 20.0
+          },
+          "source_page": 7,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        },
+        {
+          "id": "1bba2cc2",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing two intersecting straight lines ACD and BCE. Point A is to the bottom left, B to the top left, C at the intersection, D to the top right, and E to the bottom right. Triangle ABC has angle B labeled as $35^\\circ$ and angle A marked with a right angle symbol ($90^\\circ$). Triangle CDE has angle E labeled as $64^\\circ$.",
+          "description": "A geometric figure showing two intersecting straight lines ACD and BCE. Point A is to the bottom left, B to the top left, C at the intersection, D to the top right, and E to the bottom right. Triangle ABC has angle B labeled as $35^\\circ$ and angle A marked with a right angle symbol ($90^\\circ$). Triangle CDE has angle E labeled as $64^\\circ$.",
+          "bounding_box": {
+            "x1": 27.0,
+            "y1": 43.0,
+            "x2": 59.0,
+            "y2": 61.0
+          },
+          "source_page": 7,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 7,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "9c1cf43a-60b2-4b20-ba79-f72ea409eb71",
+      "question_number": "14",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Minyi received $300 as a prize. He gave $60 to his father. What percentage of the prize money did Minyi give to his father?",
+        "text_latex": "Minyi received $300 as a prize. He gave $60 to his father. What percentage of the prize money did Minyi give to his father?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "20%",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "40%",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "60%",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "80%",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 8,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "ccdfa3db-b8d1-4dd7-b3e7-58e59f4bf6a1",
+      "question_number": "15",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "John had 30 more stamps than Peter at first. Peter gave 18 of his stamps to John. John now has 3 times as many stamps as Peter. How many stamps did Peter have at first?",
+        "text_latex": "John had 30 more stamps than Peter at first. Peter gave 18 of his stamps to John. John now has 3 times as many stamps as Peter. How many stamps did Peter have at first?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": {
+        "options": [
+          {
+            "label": "1",
+            "text": "42",
+            "is_correct": false
+          },
+          {
+            "label": "2",
+            "text": "51",
+            "is_correct": false
+          },
+          {
+            "label": "3",
+            "text": "72",
+            "is_correct": false
+          },
+          {
+            "label": "4",
+            "text": "81",
+            "is_correct": false
+          }
+        ],
+        "blanks": [],
+        "word_limit": null,
+        "show_working": false,
+        "matching_pairs": []
+      },
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 8,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "d7f799d9-62de-4cf6-ad8c-f3d1d06d1738",
+      "question_number": "16",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Find the largest multiple of 7 that is smaller than 60.",
+        "text_latex": "Find the largest multiple of 7 that is smaller than 60.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "SHORT_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 10,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "46840d4f-8652-4a92-9fed-0be948990734",
+      "question_number": "17",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Round 33.652 to the nearest tenth.",
+        "text_latex": "Round 33.652 to the nearest tenth.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "SHORT_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 10,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "85719164-05e4-45d1-bb39-4a8c4012d47d",
+      "question_number": "18",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Find the value of $\\frac{2}{9} \\times \\frac{3}{5}$. Give your answer in its simplest form.",
+        "text_latex": "Find the value of $\\frac{2}{9} \\times \\frac{3}{5}$. Give your answer in its simplest form.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "SHORT_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 10,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "494d4748-4173-4dcb-ad1b-c029f82fad73",
+      "question_number": "19",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "A baker sells 65 slices of cakes per day. How many slices of cakes will the baker sell in a week?",
+        "text_latex": "A baker sells 65 slices of cakes per day. How many slices of cakes will the baker sell in a week?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "SHORT_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 11,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "f2d24427-36d9-4dc4-9dae-4fd10a26f6e7",
+      "question_number": "20",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "What is the value of $20 + (24 - 6) \\div 6 \\times 3$.",
+        "text_latex": "What is the value of $20 + (24 - 6) \\div 6 \\times 3$.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "SHORT_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 11,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "f9157ed4-c412-43c9-972e-78a994746d98",
+      "question_number": "21",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "A machine takes 3 minutes to print 7 posters. At the same rate, how long will it take to print 42 posters?",
+        "text_latex": "A machine takes 3 minutes to print 7 posters. At the same rate, how long will it take to print 42 posters?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [],
+      "source": {
+        "page_number": 12,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "9ff83095-043d-4e6d-8e34-fa0c31dbb98b",
+      "question_number": "22",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "A piece of string is cut into three pieces in the ratio $2 : 4 : 7$. The longest piece is 40 cm longer than the shortest piece. Find the original length of the piece of string.",
+        "text_latex": "A piece of string is cut into three pieces in the ratio $2 : 4 : 7$. The longest piece is 40 cm longer than the shortest piece. Find the original length of the piece of string.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [],
+      "source": {
+        "page_number": 12,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "7d0e6c3a-6276-4735-af06-2c5f8d0f64b5",
+      "question_number": "23",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "A box can hold either 12 big cubes or 48 small cubes. Keane put 6 big cubes and 7 small cubes in the box. How many more small cubes can Keane put into the box?",
+        "text_latex": "A box can hold either 12 big cubes or 48 small cubes. Keane put 6 big cubes and 7 small cubes in the box. How many more small cubes can Keane put into the box?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 13,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.95
+    },
+    {
+      "id": "8b48d8d0-9cf0-4b2f-a721-36b27cb70940",
+      "question_number": "24",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "In the figure below, ACD is an isosceles triangle and BCD is a straight line. $\\angle ABC = 42^\\circ$ and $\\angle ADC = 70^\\circ$. Find $\\angle BAC$. [Diagram: A geometric figure showing points A, B, C, D. BCD is a straight line. Triangle ACD is an isosceles triangle with sides AC and AD marked as equal. Angle ADC is $70^\\circ$. Angle ABC is $42^\\circ$.]",
+        "text_latex": "In the figure below, ACD is an isosceles triangle and BCD is a straight line. $\\angle ABC = 42^\\circ$ and $\\angle ADC = 70^\\circ$. Find $\\angle BAC$.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "fb3676ed",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing a straight line BCD. Point A is positioned above the line. Triangle ACD is formed, with tick marks on sides AC and AD indicating they are equal in length, making it an isosceles triangle. Angle ADC is labeled as $70^\\circ$. Triangle ABC is also formed, with angle ABC labeled as $42^\\circ$. The vertices are clearly labeled A, B, C, D.",
+          "description": "A geometric figure showing a straight line BCD. Point A is positioned above the line. Triangle ACD is formed, with tick marks on sides AC and AD indicating they are equal in length, making it an isosceles triangle. Angle ADC is labeled as $70^\\circ$. Triangle ABC is also formed, with angle ABC labeled as $42^\\circ$. The vertices are clearly labeled A, B, C, D.",
+          "bounding_box": {
+            "x1": 22.0,
+            "y1": 52.0,
+            "x2": 61.0,
+            "y2": 66.0
+          },
+          "source_page": 13,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 13,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.95
+    },
+    {
+      "id": "44374020-d10a-4f93-ae36-e8ed5b970156",
+      "question_number": "25",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Carol has $215 more than Raju. Raju has $35 less than Joel. Carol has $148 more than the total amount of money Raju and Joel have. How much money does Raju have?",
+        "text_latex": "Carol has $215 more than Raju. Raju has $35 less than Joel. Carol has $148 more than the total amount of money Raju and Joel have. How much money does Raju have?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 14,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "2eeb3a7a-e89c-4fa9-a55d-b563a1496de1",
+      "question_number": "26",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The table below shows the number of pages of a book Anna read from Monday to Friday. [Diagram: A table titled 'Day' and 'Number of pages' with columns for Mon, Tue, Wed, Thu, Fri. The 'Number of pages' row shows 6 for Mon, 5 for Tue, 8 for Wed, 7 for Thu, and '?' for Fri.] Anna read an average of 8 pages from Monday to Friday. How many pages did she read on Friday?",
+        "text_latex": "The table below shows the number of pages of a book Anna read from Monday to Friday. Anna read an average of 8 pages from Monday to Friday. How many pages did she read on Friday?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "65a70c9e",
+          "type": "TABLE",
+          "alt_text": "A table with two rows and six columns. The first row contains headers: 'Day', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The second row contains 'Number of pages' and then values for each day: '6' for Mon, '5' for Tue, '8' for Wed, '7' for Thu, and '?' for Fri.",
+          "description": "A table with two rows and six columns. The first row contains headers: 'Day', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The second row contains 'Number of pages' and then values for each day: '6' for Mon, '5' for Tue, '8' for Wed, '7' for Thu, and '?' for Fri.",
+          "bounding_box": {
+            "x1": 21.5,
+            "y1": 52.0,
+            "x2": 79.5,
+            "y2": 57.0
+          },
+          "source_page": 14,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 14,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "3250e4d3-f7b5-49e0-b806-4582c68ea1f9",
+      "question_number": "27",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "In the figure below, ACDE is a parallelogram. $\\angle AEB = 36^\\circ$ and $\\angle CBE = 157^\\circ$. Find $\\angle BCD$. [Diagram: A geometric figure is shown. It depicts a parallelogram ACDE. A line segment BE is drawn from vertex B to vertex E, forming a triangle ABE. Another line segment AB is drawn. The angle $\\angle AEB$ is marked as $36^\\circ$. The angle $\\angle CBE$ is marked as $157^\\circ$. The vertices are labeled A, B, C, D, E.]",
+        "text_latex": "In the figure below, ACDE is a parallelogram. $\\angle AEB = 36^\\circ$ and $\\angle CBE = 157^\\circ$. Find $\\angle BCD$.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "63e3643a",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing a quadrilateral ACDE, which is stated to be a parallelogram. A diagonal BE is drawn from vertex B to vertex E. Another line segment AB is drawn. The vertices are labeled A, B, C, D, E. Angle $\\angle AEB$ is marked as $36^\\circ$. Angle $\\angle CBE$ is marked as $157^\\circ$.",
+          "description": "A geometric figure showing a quadrilateral ACDE, which is stated to be a parallelogram. A diagonal BE is drawn from vertex B to vertex E. Another line segment AB is drawn. The vertices are labeled A, B, C, D, E. Angle $\\angle AEB$ is marked as $36^\\circ$. Angle $\\angle CBE$ is marked as $157^\\circ$.",
+          "bounding_box": {
+            "x1": 20.0,
+            "y1": 15.0,
+            "x2": 60.0,
+            "y2": 30.0
+          },
+          "source_page": 15,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 15,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "a82c068c-648a-4506-8d86-70bbc70fed64",
+      "question_number": "28",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Annie, Ben and Caili shared some money. The ratio of Annie's money to Ben's money was $4 : 1$. Caili received $84 and she had $24 more than Annie. How much money did Ben receive?",
+        "text_latex": "Annie, Ben and Caili shared some money. The ratio of Annie's money to Ben's money was $4 : 1$. Caili received $84 and she had $24 more than Annie. How much money did Ben receive?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 15,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.95
+    },
+    {
+      "id": "423c9a90-58b8-486e-beb7-645a86e915f0",
+      "question_number": "29",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "In the figure below, ABD is an equilateral triangle and ABCE is a trapezium. CDE is a straight line and $\\angle DAE = 49^\\circ$. Find $\\angle CBD$. [Diagram: A geometric figure is shown. It consists of an equilateral triangle ABD and a trapezium ABCE. Points are labeled A, B, C, D, E. Point A is at the top-left, B at the top-right, E at the bottom-left, D on the base line between E and C, and C at the bottom-right. Line segments AE and BC are vertical and parallel, indicated by single arrows on them, forming the non-parallel sides of the trapezium ABCE. The base EC is horizontal. Triangle ABD is formed by connecting A, B, and D. An angle of $49^\\circ$ is marked at vertex A, specifically for $\\angle DAE$.]",
+        "text_latex": "In the figure below, ABD is an equilateral triangle and ABCE is a trapezium. CDE is a straight line and $\\angle DAE = 49^\\circ$. Find $\\angle CBD$.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "ec706af0",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric figure showing a composite shape. It includes an equilateral triangle ABD and a trapezium ABCE. The vertices are labeled A, B, C, D, E. A is top-left, B is top-right. E is bottom-left, D is on the horizontal line segment EC, and C is bottom-right. Line segments AE and BC are vertical and parallel (indicated by single arrows). The line segment EC is horizontal. An angle of $49^\\circ$ is marked at $\\angle DAE$.",
+          "description": "A geometric figure showing a composite shape. It includes an equilateral triangle ABD and a trapezium ABCE. The vertices are labeled A, B, C, D, E. A is top-left, B is top-right. E is bottom-left, D is on the horizontal line segment EC, and C is bottom-right. Line segments AE and BC are vertical and parallel (indicated by single arrows). The line segment EC is horizontal. An angle of $49^\\circ$ is marked at $\\angle DAE$.",
+          "bounding_box": {
+            "x1": 20.0,
+            "y1": 18.0,
+            "x2": 45.0,
+            "y2": 36.0
+          },
+          "source_page": 16,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 16,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "8ccd15f2-e529-4720-a8b6-1ecdadc33c6d",
+      "question_number": "30",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "A triangular piece of paper is folded at one corner to form 3 smaller identical triangles as shown below. Find the area of the triangular piece of paper before it was folded? [Diagram: The diagram shows a large triangular shape, represented by dashed lines, which indicates the paper before it was folded. Inside this large triangle, three smaller, identical triangles are formed by solid lines, representing the paper after folding. One of the smaller triangles has a base labeled '10 cm'. The overall height of the large triangular piece of paper (from its base to its apex, indicated by a dashed vertical line) is labeled '6 cm'. Right angle symbols indicate perpendicular heights for the base and height measurements.]",
+        "text_latex": "A triangular piece of paper is folded at one corner to form 3 smaller identical triangles as shown below. Find the area of the triangular piece of paper before it was folded?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "4e0cfaff",
+          "type": "DIAGRAM",
+          "alt_text": "A geometric diagram showing a large triangle (outlined by dashed lines) representing a piece of paper before folding. Inside, three smaller, identical triangles (outlined by solid lines) are formed, representing the paper after folding. A horizontal segment within one of the smaller triangles is labeled '10 cm'. A vertical dashed line indicates the total height of the original large triangle, which is labeled '6 cm'. Right angle symbols are used to denote perpendicularity for the base and height measurements.",
+          "description": "A geometric diagram showing a large triangle (outlined by dashed lines) representing a piece of paper before folding. Inside, three smaller, identical triangles (outlined by solid lines) are formed, representing the paper after folding. A horizontal segment within one of the smaller triangles is labeled '10 cm'. A vertical dashed line indicates the total height of the original large triangle, which is labeled '6 cm'. Right angle symbols are used to denote perpendicularity for the base and height measurements.",
+          "bounding_box": {
+            "x1": 22.0,
+            "y1": 21.0,
+            "x2": 80.0,
+            "y2": 37.0
+          },
+          "source_page": 17,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 17,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "676b57b2-a072-466c-8fb5-eadde331f744",
+      "question_number": "1",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "7500 ml of water was poured into 6 containers equally.\nHow many litres of water were there in one container?",
+        "text_latex": "7500 ml of water was poured into 6 containers equally.\nHow many litres of water were there in one container?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [],
+      "source": {
+        "page_number": 20,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "237085b3-3580-47c5-a0d2-1ef421fc4cc4",
+      "question_number": "2",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "There are less than 40 apples in a box. Adam, Chloe and Eddy shared the box of apples in the ratio 3 : 1 : 5.\nEach statement below is either true, false or not possible to tell from the information given. For each statement, put a tick (✓) to indicate your answer. [Diagram: A table with four columns: 'Statement', 'True', 'False', 'Not possible to tell'. The table contains two statements to be evaluated.]",
+        "text_latex": "There are less than 40 apples in a box. Adam, Chloe and Eddy shared the box of apples in the ratio $3 : 1 : 5$.\nEach statement below is either true, false or not possible to tell from the information given. For each statement, put a tick (✓) to indicate your answer.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "MULTIPLE_CHOICE",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [
+        {
+          "id": "f3cdd3ea-8690-4c0f-a8da-8b0ad00d5a4a",
+          "question_number": "2statement 1",
+          "parent_question_id": "237085b3-3580-47c5-a0d2-1ef421fc4cc4",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "There are 9 apples in the box.",
+            "text_latex": null,
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "MULTIPLE_CHOICE",
+          "response_config": {
+            "options": [
+              {
+                "label": "True",
+                "text": "True",
+                "is_correct": false
+              },
+              {
+                "label": "False",
+                "text": "False",
+                "is_correct": false
+              },
+              {
+                "label": "Not possible to tell",
+                "text": "Not possible to tell",
+                "is_correct": false
+              }
+            ],
+            "blanks": [],
+            "word_limit": null,
+            "show_working": false,
+            "matching_pairs": []
+          },
+          "diagrams": [],
+          "answer_key": null,
+          "marks": null,
+          "subparts": [],
+          "source": {
+            "page_number": 20,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "7ceba0cc-4c0e-4eb7-b101-3835974da0ef",
+          "question_number": "2statement 2",
+          "parent_question_id": "237085b3-3580-47c5-a0d2-1ef421fc4cc4",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "Adam received 10 more apples than Chloe.",
+            "text_latex": null,
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "MULTIPLE_CHOICE",
+          "response_config": {
+            "options": [
+              {
+                "label": "True",
+                "text": "True",
+                "is_correct": false
+              },
+              {
+                "label": "False",
+                "text": "False",
+                "is_correct": false
+              },
+              {
+                "label": "Not possible to tell",
+                "text": "Not possible to tell",
+                "is_correct": false
+              }
+            ],
+            "blanks": [],
+            "word_limit": null,
+            "show_working": false,
+            "matching_pairs": []
+          },
+          "diagrams": [],
+          "answer_key": null,
+          "marks": null,
+          "subparts": [],
+          "source": {
+            "page_number": 20,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 20,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.97
+    },
+    {
+      "id": "3041824f-190f-4598-b452-09883aed96be",
+      "question_number": "3",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The solid below is made up of 1-cm cubes. [Diagram: A 3D isometric drawing of a solid object constructed from 1-cm cubes. The solid has a base that appears to be 3 units wide and 3 units deep. From the front, it has a shape that rises in steps. An arrow points to the front view, indicating the perspective for part (b). The solid consists of 10 cubes: a bottom layer with 3 cubes in the front row, 2 in the middle, and 1 in the back; a second layer with 2 cubes in the front row and 1 in the middle; and a top layer with 1 cube in the front row.]",
+        "text_latex": "The solid below is made up of 1-cm cubes.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "LONG_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "30ce844a-663a-4f68-a1cc-217de2a0c0c5",
+          "question_number": "3a",
+          "parent_question_id": "3041824f-190f-4598-b452-09883aed96be",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "What is the volume of the solid?",
+            "text_latex": "What is the volume of the solid?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "SHORT_ANSWER",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": null,
+          "subparts": [],
+          "source": {
+            "page_number": 21,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.95
+        },
+        {
+          "id": "3891893e-81f6-4168-b8b4-1a19b5559798",
+          "question_number": "3b",
+          "parent_question_id": "3041824f-190f-4598-b452-09883aed96be",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "Draw the front view of the solid on the square grid below. [Diagram: A 6x4 square grid is provided for drawing the front view of the solid.]",
+            "text_latex": "Draw the front view of the solid on the square grid below.",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": null,
+          "subparts": [],
+          "source": {
+            "page_number": 21,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.95
+        }
+      ],
+      "source": {
+        "page_number": 21,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "59dff1fe-1103-42df-8395-41ff45f56438",
+      "question_number": "4",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The table shows the postage rates for sending mails in Singapore. [Diagram: A table showing postage rates for sending mails in Singapore. It has three columns: 'Mass step not over', 'Small envelope', and 'Large envelope'. The rows list mass steps: 20 g, 40 g, 100 g, 250 g, 500 g. For 'Small envelope', the rates are $0.31 for 20g and $0.38 for 40g, with rates for 100g, 250g, and 500g being obscured/blacked out. For 'Large envelope', the rates are $0.60 for 20g, $0.60 for 40g, $0.60 for 100g, $0.90 for 250g, and $1.15 for 500g.] Mr Cheng sent a small envelope with a mass of 30 g and a large envelope with a mass of 400 g. How much postage did Mr Cheng pay altogether?",
+        "text_latex": "The table shows the postage rates for sending mails in Singapore. Mr Cheng sent a small envelope with a mass of 30 g and a large envelope with a mass of 400 g. How much postage did Mr Cheng pay altogether?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 22,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "8c6ad71b-f4c9-4a8c-aaef-d4626bc7f19d",
+      "question_number": "5",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Siti spent $\\frac{1}{3}$ of her money on a dress and $\\frac{1}{5}$ of her money on a handbag. She had $168 left. How much money did she spend on her handbag?",
+        "text_latex": "Siti spent $\\frac{1}{3}$ of her money on a dress and $\\frac{1}{5}$ of her money on a handbag. She had $168 left. How much money did she spend on her handbag?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [],
+      "source": {
+        "page_number": 22,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.95
+    },
+    {
+      "id": "a3daea1e-a176-47fa-98a5-0d7c5bd2b685",
+      "question_number": "6",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "In the figure below, ABCE is a rhombus and CDE is a right-angled triangle. $\\angle ABC = 56^\\circ$ and $\\angle AED = 97^\\circ$. Find $\\angle CDE$. [Diagram: A composite geometric figure is shown. It consists of a rhombus ABCE and a right-angled triangle CDE. The rhombus ABCE has all four sides (AB, BC, CE, EA) marked with single tick marks, indicating they are of equal length. Angle ABC is labeled as $56^\\circ$. The triangle CDE is attached to side CE of the rhombus. Angle ECD is marked with a right-angle symbol ($90^\\circ$). Angle AED, which is an exterior angle to the rhombus at vertex E, is labeled as $97^\\circ$. The vertices are labeled A, B, C, D, E.]",
+        "text_latex": "In the figure below, ABCE is a rhombus and CDE is a right-angled triangle. $\\angle ABC = 56^\\circ$ and $\\angle AED = 97^\\circ$. Find $\\angle CDE$.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "0e5bb2cb",
+          "type": "DIAGRAM",
+          "alt_text": "A composite geometric figure showing a rhombus ABCE and a right-angled triangle CDE. The rhombus ABCE has sides AB, BC, CE, EA marked with single tick marks, indicating equal length. Angle ABC is labeled as 56 degrees. The triangle CDE is connected to the rhombus at C and E. Angle ECD is marked as a right angle (90 degrees). Angle AED is labeled as 97 degrees. The vertices are labeled A, B, C, D, E.",
+          "description": "A composite geometric figure showing a rhombus ABCE and a right-angled triangle CDE. The rhombus ABCE has sides AB, BC, CE, EA marked with single tick marks, indicating equal length. Angle ABC is labeled as 56 degrees. The triangle CDE is connected to the rhombus at C and E. Angle ECD is marked as a right angle (90 degrees). Angle AED is labeled as 97 degrees. The vertices are labeled A, B, C, D, E.",
+          "bounding_box": {
+            "x1": 20.0,
+            "y1": 23.0,
+            "x2": 60.0,
+            "y2": 49.0
+          },
+          "source_page": 23,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": 3,
+      "subparts": [],
+      "source": {
+        "page_number": 23,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "a07fabdf-8994-4d42-b02f-fdac919e71a3",
+      "question_number": "7",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "There are some paper clips in a box. $\\frac{4}{5}$ of them are blue. $\\frac{3}{4}$ of the remaining paper clips are red and the rest are yellow. There are 48 red paper clips. How many paper clips are there in the box?",
+        "text_latex": "There are some paper clips in a box. $\\frac{4}{5}$ of them are blue. $\\frac{3}{4}$ of the remaining paper clips are red and the rest are yellow. There are 48 red paper clips. How many paper clips are there in the box?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 3,
+      "subparts": [],
+      "source": {
+        "page_number": 24,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "a6475d2f-3d0c-416d-bfeb-103c4d52917d",
+      "question_number": "8",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "There was a total of 185 mugs and cups in a shop. There were 4 times as many mugs as cups. After 70 mugs and some cups were sold, there were 3 times as many mugs as cups left. How many cups were left?",
+        "text_latex": "There was a total of 185 mugs and cups in a shop. There were 4 times as many mugs as cups. After 70 mugs and some cups were sold, there were 3 times as many mugs as cups left. How many cups were left?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 3,
+      "subparts": [],
+      "source": {
+        "page_number": 25,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "a98323d7-ada0-4d9d-9c94-9d5d768ca19d",
+      "question_number": "9",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The figure below is made up of square ABDE and triangle CDE. The area of square ABDE is $64 \\text{ cm}^2$ and the height of triangle CDE is $20 \\text{ cm}$. Find the area of the shaded triangle CBD. [Diagram: A composite geometric figure is shown, consisting of a square ABDE and a triangle CDE. The vertices are labeled A, B, C, D, E. Square ABDE is on the left. Triangle CDE extends to the right and upwards from the base DE. A vertical dashed line extends from C downwards to the line containing DE, forming a right angle, and its length is labeled as 20 cm, representing the height of triangle CDE. The triangle CBD is shaded.]",
+        "text_latex": "The figure below is made up of square ABDE and triangle CDE. The area of square ABDE is $64 \\text{ cm}^2$ and the height of triangle CDE is $20 \\text{ cm}$. Find the area of the shaded triangle CBD.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "e46bff13",
+          "type": "DIAGRAM",
+          "alt_text": "A composite geometric figure consisting of a square ABDE and a triangle CDE. The square ABDE has vertices A, B, D, E. Point C is located such that triangle CDE is formed. A vertical dashed line from C to the line containing DE indicates the height of triangle CDE, which is labeled as 20 cm. A right angle symbol is shown at the base of this height. The triangle CBD, formed by vertices C, B, and D, is shaded.",
+          "description": "A composite geometric figure consisting of a square ABDE and a triangle CDE. The square ABDE has vertices A, B, D, E. Point C is located such that triangle CDE is formed. A vertical dashed line from C to the line containing DE indicates the height of triangle CDE, which is labeled as 20 cm. A right angle symbol is shown at the base of this height. The triangle CBD, formed by vertices C, B, and D, is shaded.",
+          "bounding_box": {
+            "x1": 24.0,
+            "y1": 28.0,
+            "x2": 58.0,
+            "y2": 45.0
+          },
+          "source_page": 26,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": 3,
+      "subparts": [],
+      "source": {
+        "page_number": 26,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "1be4e0b7-fe27-4867-bf9f-e3bd5d8fcfa2",
+      "question_number": "10",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The line graph shows the number of visitors at a science exhibition from January to June. [Diagram: A line graph titled 'Number of Visitors' showing visitor counts (Y-axis, ranging from 0 to 800 in increments of 100) against months (X-axis: Jan, Feb, Mar, Apr, May, Jun). The line plot shows approximately 300 visitors in Jan, 500 in Feb, 750 in Mar, 700 in Apr, 300 in May, and 650 in Jun.]",
+        "text_latex": "The line graph shows the number of visitors at a science exhibition from January to June.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "af05f3c9-fb1b-43f6-88f8-f0c6d28008e4",
+          "question_number": "10a",
+          "parent_question_id": "1be4e0b7-fe27-4867-bf9f-e3bd5d8fcfa2",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "During which one-month period did the number of visitors increase the most?",
+            "text_latex": "During which one-month period did the number of visitors increase the most?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "SHORT_ANSWER",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 1,
+          "subparts": [],
+          "source": {
+            "page_number": 27,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "7d1b11de-660c-4323-bc96-8c0c65f78abb",
+          "question_number": "10b",
+          "parent_question_id": "1be4e0b7-fe27-4867-bf9f-e3bd5d8fcfa2",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "Each visitor paid $6.50 for a ticket to the exhibition. How much money was collected from the sales of the total number of tickets from January to April?",
+            "text_latex": "Each visitor paid $6.50 for a ticket to the exhibition. How much money was collected from the sales of the total number of tickets from January to April?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 27,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 27,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "211242dc-3715-4795-9810-5e9fa94f63b8",
+      "question_number": "11",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "In a race, there were 1050 participants altogether. 70% of the participants were men and the rest were women. 80% of the women and some men finished the race. A total of 230 participants did not finish the race.",
+        "text_latex": "In a race, there were 1050 participants altogether. 70\\% of the participants were men and the rest were women. 80\\% of the women and some men finished the race. A total of 230 participants did not finish the race.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "b46d0745-cfe4-48e2-aa92-9bec1516907d",
+          "question_number": "11a",
+          "parent_question_id": "211242dc-3715-4795-9810-5e9fa94f63b8",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "How many women joined the race?",
+            "text_latex": "How many women joined the race?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 1,
+          "subparts": [],
+          "source": {
+            "page_number": 28,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "23aa0ad5-7023-431f-9883-744b3975c6c0",
+          "question_number": "11b",
+          "parent_question_id": "211242dc-3715-4795-9810-5e9fa94f63b8",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "How many men finished the race?",
+            "text_latex": "How many men finished the race?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 3,
+          "subparts": [],
+          "source": {
+            "page_number": 28,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 28,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "c20793e5-bed8-4734-a6f7-95d51b8c3295",
+      "question_number": "12",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Alice has some paperclips. If she gives each friend 14 paperclips, she will have 4 paperclips left. If she gives each of them 20 paperclips, she will be short of 68 paperclips.",
+        "text_latex": "Alice has some paperclips. If she gives each friend 14 paperclips, she will have 4 paperclips left. If she gives each of them 20 paperclips, she will be short of 68 paperclips.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "9297bd4d-3b99-46c9-acfe-e883e4942f24",
+          "question_number": "12a",
+          "parent_question_id": "c20793e5-bed8-4734-a6f7-95d51b8c3295",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "How many friends did Alice have?",
+            "text_latex": "How many friends did Alice have?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 29,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "165d517f-8670-4c84-aab1-87770f877f2a",
+          "question_number": "12b",
+          "parent_question_id": "c20793e5-bed8-4734-a6f7-95d51b8c3295",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "How many paperclips did Alice have?",
+            "text_latex": "How many paperclips did Alice have?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 29,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 29,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "85ae1f76-d709-465f-a82a-0277f16dfd94",
+      "question_number": "13",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Alex, Ben and Charles shared some stickers. Ben received 3 times as many stickers as Charles. The number of stickers Alex received was $\\frac{3}{5}$ the total number of stickers. Alex received 120 more stickers than Charles.",
+        "text_latex": "Alex, Ben and Charles shared some stickers. Ben received 3 times as many stickers as Charles. The number of stickers Alex received was $\\frac{3}{5}$ the total number of stickers. Alex received 120 more stickers than Charles.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "a8570e66-14de-4aa0-a84e-00fd3e302a2a",
+          "question_number": "13a",
+          "parent_question_id": "85ae1f76-d709-465f-a82a-0277f16dfd94",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "What fraction of the stickers did Charles have?",
+            "text_latex": "What fraction of the stickers did Charles have?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 1,
+          "subparts": [],
+          "source": {
+            "page_number": 30,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "703b76e1-d68e-4cd7-82b6-df2eed1b7ebd",
+          "question_number": "13b",
+          "parent_question_id": "85ae1f76-d709-465f-a82a-0277f16dfd94",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "How many stickers did the boys have altogether?",
+            "text_latex": "How many stickers did the boys have altogether?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 3,
+          "subparts": [],
+          "source": {
+            "page_number": 30,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 30,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "a578345d-18e3-4ca0-923f-e34ea2828eb4",
+      "question_number": "14",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Simon bought an equal number of sandwiches and pies. A sandwich cost $4 and a pie cost $1.80 less than a sandwich. He paid a total of $279. How much did Simon pay for the pies?",
+        "text_latex": "Simon bought an equal number of sandwiches and pies. A sandwich cost $4 and a pie cost $1.80 less than a sandwich. He paid a total of $279. How much did Simon pay for the pies?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 4,
+      "subparts": [],
+      "source": {
+        "page_number": 31,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "19b86abf-6073-4476-8949-5d91f7c7f011",
+      "question_number": "15",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "Container A measuring 30 cm by 16 cm by 15 cm was completely filled with water at first. Container B is a cubical tank of edge 10 cm. Ravi poured some of the water from Container A into Container B to fill it completely. [Diagram: Two containers are shown. Container A is a rectangular prism (cuboid) with dimensions labeled as 30 cm (length), 16 cm (width), and 15 cm (height). Container B is a cube with an edge length of 10 cm. An arrow indicates water being transferred from Container A to Container B.]",
+        "text_latex": "Container A measuring $30 \\text{ cm}$ by $16 \\text{ cm}$ by $15 \\text{ cm}$ was completely filled with water at first. Container B is a cubical tank of edge $10 \\text{ cm}$. Ravi poured some of the water from Container A into Container B to fill it completely.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "fe9b3ba1-dca0-455c-bdd3-e554673b6065",
+          "question_number": "15a",
+          "parent_question_id": "19b86abf-6073-4476-8949-5d91f7c7f011",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "How much water was left in Container A?",
+            "text_latex": "How much water was left in Container A?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 32,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "fc1c4dbf-dff5-4d26-ace8-1b0b3b169237",
+          "question_number": "15b",
+          "parent_question_id": "19b86abf-6073-4476-8949-5d91f7c7f011",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "After Ravi used some water to water his plants, he had 5150 ml of water left. How much water did Ravi use to water his plants? Give your answer in litres.",
+            "text_latex": "After Ravi used some water to water his plants, he had $5150 \\text{ ml}$ of water left. How much water did Ravi use to water his plants? Give your answer in litres.",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 32,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 32,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+      "question_number": "16",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The bar graph below shows the number of cupcakes sold from Monday to Friday. [Diagram: A bar graph is displayed with 'Day' on the x-axis and 'Number of cupcakes sold' on the y-axis. The y-axis ranges from 0 to 80, marked in increments of 20. The x-axis has labels for 'Mon', 'Tue', 'Wed', 'Thu', and 'Fri'. The bars show the following approximate values: Monday (35 cupcakes), Tuesday (55 cupcakes), Wednesday (65 cupcakes), Thursday (70 cupcakes). The position for Friday's bar is indicated by a vertical dotted line, suggesting its value is to be determined or marked.]",
+        "text_latex": "The bar graph below shows the number of cupcakes sold from Monday to Friday.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [
+        {
+          "id": "c8343f26",
+          "type": "DIAGRAM",
+          "alt_text": "A bar graph titled 'Number of cupcakes sold' is displayed. The x-axis represents 'Day' with labels 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The y-axis represents 'Number of cupcakes sold' and is scaled from 0 to 80 in increments of 20. The bars show the following approximate values: Monday (35), Tuesday (55), Wednesday (65), Thursday (70). The bar for Friday is indicated by a vertical dotted line, suggesting its value is to be determined or marked.",
+          "description": "A bar graph titled 'Number of cupcakes sold' is displayed. The x-axis represents 'Day' with labels 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The y-axis represents 'Number of cupcakes sold' and is scaled from 0 to 80 in increments of 20. The bars show the following approximate values: Monday (35), Tuesday (55), Wednesday (65), Thursday (70). The bar for Friday is indicated by a vertical dotted line, suggesting its value is to be determined or marked.",
+          "bounding_box": {
+            "x1": 18.0,
+            "y1": 17.0,
+            "x2": 84.0,
+            "y2": 45.0
+          },
+          "source_page": 33,
+          "is_shared": false,
+          "shared_with_questions": [],
+          "extraction_confidence": 0.9
+        }
+      ],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "70fef835-485a-4836-b977-2cf6d193b18e",
+          "question_number": "16a",
+          "parent_question_id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "What was the average number of cupcakes sold on Monday and Tuesday?",
+            "text_latex": "What was the average number of cupcakes sold on Monday and Tuesday?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 33,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "16eb6257-4476-406b-9b1f-44ca9be7fc79",
+          "question_number": "16b",
+          "parent_question_id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "Find the total number of cupcakes sold from Monday to Thursday.",
+            "text_latex": "Find the total number of cupcakes sold from Monday to Thursday.",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 1,
+          "subparts": [],
+          "source": {
+            "page_number": 33,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "a652a54b-66e7-4c29-b7ab-33d68701d30d",
+          "question_number": "16c",
+          "parent_question_id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "The average number of cupcakes sold for the 5 days was 56. Find the number of cupcakes sold on Friday. Shade your answer in the graph above.",
+            "text_latex": "The average number of cupcakes sold for the 5 days was 56. Find the number of cupcakes sold on Friday. Shade your answer in the graph above.",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "WORKING_AREA",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 33,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 33,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    },
+    {
+      "id": "b6eecb8a-b832-49d1-ac93-022436ad564d",
+      "question_number": "17",
+      "parent_question_id": null,
+      "hierarchy_level": 0,
+      "content": {
+        "text": "The pattern below is made up of squares and dots. Study the pattern carefully and answer the following questions. [Diagrams: Four figures (Figure 1, Figure 2, Figure 3, Figure 4) are shown. Figure 1 consists of a single square with 4 dots at its vertices. Figure 2 shows two squares joined at a vertex, forming a diamond-like shape, with 8 dots. Figure 3 displays three squares arranged in an L-shape, with 12 dots. Figure 4 illustrates four squares also in an L-shape, with 16 dots. Each square in the pattern has dots at its vertices.]",
+        "text_latex": "The pattern below is made up of squares and dots. Study the pattern carefully and answer the following questions.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "LONG_ANSWER",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": null,
+      "subparts": [
+        {
+          "id": "32bd77a5-5558-4de0-b936-c7abd45c6828",
+          "question_number": "17a",
+          "parent_question_id": "b6eecb8a-b832-49d1-ac93-022436ad564d",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "Complete the table below by filling in the number of dots in Figure 5. [Diagram: A table is provided with three rows: 'Figure', 'Number of squares', and 'Number of dots'. The columns are for Figure numbers 1 to 5. For Figure 1: 1 square, 3 dots. For Figure 2: 3 squares, 7 dots. For Figure 3: 5 squares, 11 dots. For Figure 4: 7 squares, 15 dots. For Figure 5: 9 squares, and the 'Number of dots' cell is blank, requiring completion.]",
+            "text_latex": "Complete the table below by filling in the number of dots in Figure 5.",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "FILL_IN_BLANK",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 1,
+          "subparts": [],
+          "source": {
+            "page_number": 34,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "389ec437-ddbb-499b-b224-1b1adcbbe080",
+          "question_number": "17b",
+          "parent_question_id": "b6eecb8a-b832-49d1-ac93-022436ad564d",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "How many squares are there in Figure 12?",
+            "text_latex": "How many squares are there in Figure 12?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "SHORT_ANSWER",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 34,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        },
+        {
+          "id": "bb25a3af-8824-4b45-8517-fcba0518f1d3",
+          "question_number": "17c",
+          "parent_question_id": "b6eecb8a-b832-49d1-ac93-022436ad564d",
+          "hierarchy_level": 1,
+          "content": {
+            "text": "In which figure are there 295 dots?",
+            "text_latex": "In which figure are there 295 dots?",
+            "text_html": null,
+            "segments": []
+          },
+          "response_type": "SHORT_ANSWER",
+          "response_config": null,
+          "diagrams": [],
+          "answer_key": null,
+          "marks": 2,
+          "subparts": [],
+          "source": {
+            "page_number": 34,
+            "bounding_box": null
+          },
+          "extraction_confidence": 0.8
+        }
+      ],
+      "source": {
+        "page_number": 34,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.98
+    }
+  ],
+  "extraction_metrics": {
+    "total_tokens_used": 104218,
+    "total_cost_usd": 0.0148,
+    "processing_time_seconds": 921.78,
+    "pages_processed": 38,
+    "questions_extracted": 47,
+    "diagrams_extracted": 25,
+    "agents_used": [
+      "PDFParser",
+      "QuestionExtractor",
+      "DiagramExtractor",
+      "AnswerKeyAgent"
+    ],
+    "errors": []
+  }
+}

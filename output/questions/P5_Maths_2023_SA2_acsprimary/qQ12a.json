@@ -1,0 +1,23 @@
+{
+  "id": "0210368b-55b0-4695-90cf-8a82c147bc04",
+  "question_number": "Q12a",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The question text is missing. A table is provided showing 'Multiples of 14' with corresponding 'Paperclips' values (84, 88; 98, 102; 112, 116; 126, 130; 140, 144; 154, 158; 168, 172) and 'Multiples of 20' with corresponding 'Paperclips' values (120, 52; 140, 72; 160, 92; 180, 112; 200, 132; 220, 152; 240, 172).",
+    "text_latex": "The question text is missing. A table is provided showing 'Multiples of 14' with corresponding 'Paperclips' values (84, 88; 98, 102; 112, 116; 126, 130; 140, 144; 154, 158; 168, 172) and 'Multiples of 20' with corresponding 'Paperclips' values (120, 52; 140, 72; 160, 92; 180, 112; 200, 132; 220, 152; 240, 172).",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 37,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.5
+}

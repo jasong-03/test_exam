@@ -1,0 +1,23 @@
+{
+  "id": "59dff1fe-1103-42df-8395-41ff45f56438",
+  "question_number": "4",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The table shows the postage rates for sending mails in Singapore. [Diagram: A table showing postage rates for sending mails in Singapore. It has three columns: 'Mass step not over', 'Small envelope', and 'Large envelope'. The rows list mass steps: 20 g, 40 g, 100 g, 250 g, 500 g. For 'Small envelope', the rates are $0.31 for 20g and $0.38 for 40g, with rates for 100g, 250g, and 500g being obscured/blacked out. For 'Large envelope', the rates are $0.60 for 20g, $0.60 for 40g, $0.60 for 100g, $0.90 for 250g, and $1.15 for 500g.] Mr Cheng sent a small envelope with a mass of 30 g and a large envelope with a mass of 400 g. How much postage did Mr Cheng pay altogether?",
+    "text_latex": "The table shows the postage rates for sending mails in Singapore. Mr Cheng sent a small envelope with a mass of 30 g and a large envelope with a mass of 400 g. How much postage did Mr Cheng pay altogether?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 22,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

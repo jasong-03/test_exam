@@ -1,0 +1,23 @@
+{
+  "id": "2486edd7-d0f2-4f41-927c-453191a551ce",
+  "question_number": "Q13b",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Solve the following sequence of equations: $6u - 1u = 120$, $5u = 120$, $1u = 24$, $10u = 240$.",
+    "text_latex": "Solve the following sequence of equations: $6u - 1u = 120$, $5u = 120$, $1u = 24$, $10u = 240$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 37,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.8
+}

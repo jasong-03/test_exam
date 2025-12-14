@@ -1,0 +1,23 @@
+{
+  "id": "795fa377-d80e-41b2-aa2c-c19486f8a552",
+  "question_number": "Q16c",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The question text is missing. A bar chart is provided with a y-axis ranging from 0 to 80, marked at 20, 40, 60, 80. There are five bars. The first four bars have heights approximately 35, 55, 65, and 75 units respectively. The fifth bar is partially obscured and patterned, appearing to be around 45-50 units high.",
+    "text_latex": "The question text is missing. A bar chart is provided with a y-axis ranging from 0 to 80, marked at 20, 40, 60, 80. There are five bars. The first four bars have heights approximately 35, 55, 65, and 75 units respectively. The fifth bar is partially obscured and patterned, appearing to be around 45-50 units high.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 37,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.5
+}

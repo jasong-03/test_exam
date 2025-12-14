@@ -1,0 +1,70 @@
+{
+  "id": "211242dc-3715-4795-9810-5e9fa94f63b8",
+  "question_number": "11",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "In a race, there were 1050 participants altogether. 70% of the participants were men and the rest were women. 80% of the women and some men finished the race. A total of 230 participants did not finish the race.",
+    "text_latex": "In a race, there were 1050 participants altogether. 70\\% of the participants were men and the rest were women. 80\\% of the women and some men finished the race. A total of 230 participants did not finish the race.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [
+    {
+      "id": "b46d0745-cfe4-48e2-aa92-9bec1516907d",
+      "question_number": "11a",
+      "parent_question_id": "211242dc-3715-4795-9810-5e9fa94f63b8",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "How many women joined the race?",
+        "text_latex": "How many women joined the race?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 28,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    },
+    {
+      "id": "23aa0ad5-7023-431f-9883-744b3975c6c0",
+      "question_number": "11b",
+      "parent_question_id": "211242dc-3715-4795-9810-5e9fa94f63b8",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "How many men finished the race?",
+        "text_latex": "How many men finished the race?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 3,
+      "subparts": [],
+      "source": {
+        "page_number": 28,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    }
+  ],
+  "source": {
+    "page_number": 28,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

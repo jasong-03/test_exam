@@ -1,0 +1,23 @@
+{
+  "id": "8b47edd6-538c-4cc0-88d1-552bf634d31e",
+  "question_number": "Q3a",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The value given for Q3a is 13 cm³.",
+    "text_latex": "The value given for Q3a is $13$ cm$^3$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 36,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.6
+}

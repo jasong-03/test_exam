@@ -1,0 +1,23 @@
+{
+  "id": "494d4748-4173-4dcb-ad1b-c029f82fad73",
+  "question_number": "19",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "A baker sells 65 slices of cakes per day. How many slices of cakes will the baker sell in a week?",
+    "text_latex": "A baker sells 65 slices of cakes per day. How many slices of cakes will the baker sell in a week?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 11,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

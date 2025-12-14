@@ -1,0 +1,40 @@
+{
+  "id": "8ccd15f2-e529-4720-a8b6-1ecdadc33c6d",
+  "question_number": "30",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "A triangular piece of paper is folded at one corner to form 3 smaller identical triangles as shown below. Find the area of the triangular piece of paper before it was folded? [Diagram: The diagram shows a large triangular shape, represented by dashed lines, which indicates the paper before it was folded. Inside this large triangle, three smaller, identical triangles are formed by solid lines, representing the paper after folding. One of the smaller triangles has a base labeled '10 cm'. The overall height of the large triangular piece of paper (from its base to its apex, indicated by a dashed vertical line) is labeled '6 cm'. Right angle symbols indicate perpendicular heights for the base and height measurements.]",
+    "text_latex": "A triangular piece of paper is folded at one corner to form 3 smaller identical triangles as shown below. Find the area of the triangular piece of paper before it was folded?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "4e0cfaff",
+      "type": "DIAGRAM",
+      "alt_text": "A geometric diagram showing a large triangle (outlined by dashed lines) representing a piece of paper before folding. Inside, three smaller, identical triangles (outlined by solid lines) are formed, representing the paper after folding. A horizontal segment within one of the smaller triangles is labeled '10 cm'. A vertical dashed line indicates the total height of the original large triangle, which is labeled '6 cm'. Right angle symbols are used to denote perpendicularity for the base and height measurements.",
+      "description": "A geometric diagram showing a large triangle (outlined by dashed lines) representing a piece of paper before folding. Inside, three smaller, identical triangles (outlined by solid lines) are formed, representing the paper after folding. A horizontal segment within one of the smaller triangles is labeled '10 cm'. A vertical dashed line indicates the total height of the original large triangle, which is labeled '6 cm'. Right angle symbols are used to denote perpendicularity for the base and height measurements.",
+      "bounding_box": {
+        "x1": 22.0,
+        "y1": 21.0,
+        "x2": 80.0,
+        "y2": 37.0
+      },
+      "source_page": 17,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 17,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

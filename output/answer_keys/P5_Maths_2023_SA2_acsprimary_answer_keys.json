@@ -1,0 +1,735 @@
+{
+  "source_pdf": "P5_Maths_2023_SA2_acsprimary",
+  "extracted_at": "2025-12-14T08:28:24.714803",
+  "answers": [
+    {
+      "final_answer": "7500 ml ÷ 6 = 1250 ml = 1.25 ℓ",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Divide total volume by number of parts",
+          "expression": "7500 ml ÷ 6 = 1250 ml",
+          "expression_latex": null
+        },
+        {
+          "step_number": 2,
+          "description": "Convert ml to litres",
+          "expression": "1250 ml = 1.25 ℓ",
+          "expression_latex": null
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q1"
+    },
+    {
+      "final_answer": "Not possible to tell; False",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q2"
+    },
+    {
+      "final_answer": "3",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q3"
+    },
+    {
+      "final_answer": "$0.38 + $1.15 = $1.53",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Add the given amounts.",
+          "expression": "$0.38 + $1.15 = $1.53",
+          "expression_latex": "$0.38 + $1.15 = $1.53$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q4"
+    },
+    {
+      "final_answer": "Total 15u, spent 8u, left 7u\n7u = $168\n1u = $24\n3u = $72",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Determine the remaining units.",
+          "expression": "15u - 8u = 7u",
+          "expression_latex": null
+        },
+        {
+          "step_number": 2,
+          "description": "Find the value of 1 unit.",
+          "expression": "7u = $168",
+          "expression_latex": "7u = $168"
+        },
+        {
+          "step_number": 3,
+          "description": "Calculate 1 unit value.",
+          "expression": "1u = $168 / 7 = $24",
+          "expression_latex": "1u = \\frac{$168}{7} = $24"
+        },
+        {
+          "step_number": 4,
+          "description": "Calculate the value of 3 units.",
+          "expression": "3u = 3 x $24 = $72",
+          "expression_latex": "3u = 3 \\times $24 = $72$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q5"
+    },
+    {
+      "final_answer": "∠CED = 97° - 56° = 41°\n∠CDE = 180° - 41° - 90° = 49°",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Calculate angle CED.",
+          "expression": "∠CED = 97° - 56° = 41°",
+          "expression_latex": "\\angle CED = 97^\\circ - 56^\\circ = 41^\\circ"
+        },
+        {
+          "step_number": 2,
+          "description": "Calculate angle CDE using sum of angles in a triangle.",
+          "expression": "∠CDE = 180° - 41° - 90° = 49°",
+          "expression_latex": "\\angle CDE = 180^\\circ - 41^\\circ - 90^\\circ = 49^\\circ"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q6"
+    },
+    {
+      "final_answer": "48 ÷ 3 = 16\n16 x 4 = 64\n64 x 5 = 320",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Perform the first division.",
+          "expression": "48 ÷ 3 = 16",
+          "expression_latex": "48 \\div 3 = 16"
+        },
+        {
+          "step_number": 2,
+          "description": "Perform the first multiplication.",
+          "expression": "16 x 4 = 64",
+          "expression_latex": "16 \\times 4 = 64"
+        },
+        {
+          "step_number": 3,
+          "description": "Perform the second multiplication.",
+          "expression": "64 x 5 = 320",
+          "expression_latex": "64 \\times 5 = 320"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q7"
+    },
+    {
+      "final_answer": "185 ÷ 5 = 37\n37 x 4 = 148\n148 - 70 = 78\n78 ÷ 3 = 26",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Perform the first division.",
+          "expression": "185 ÷ 5 = 37",
+          "expression_latex": "185 \\div 5 = 37"
+        },
+        {
+          "step_number": 2,
+          "description": "Perform the multiplication.",
+          "expression": "37 x 4 = 148",
+          "expression_latex": "37 \\times 4 = 148"
+        },
+        {
+          "step_number": 3,
+          "description": "Perform the subtraction.",
+          "expression": "148 - 70 = 78",
+          "expression_latex": "148 - 70 = 78"
+        },
+        {
+          "step_number": 4,
+          "description": "Perform the final division.",
+          "expression": "78 ÷ 3 = 26",
+          "expression_latex": "78 \\div 3 = 26"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q8"
+    },
+    {
+      "final_answer": "√64 = 8 cm\nArea of ΔCED = 1/2 x 8 x 20 = 80 cm²\nArea of ΔBED = 32 cm²\nShaded Δ = 80 - 32 = 48 cm²",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Calculate the square root.",
+          "expression": "√64 = 8 cm",
+          "expression_latex": "\\sqrt{64} = 8 \\text{ cm}"
+        },
+        {
+          "step_number": 2,
+          "description": "Calculate the area of triangle CED.",
+          "expression": "Area of ΔCED = 1/2 x 8 x 20 = 80 cm²",
+          "expression_latex": "\\text{Area of } \\Delta CED = \\frac{1}{2} \\times 8 \\times 20 = 80 \\text{ cm}^2"
+        },
+        {
+          "step_number": 3,
+          "description": "State the area of triangle BED.",
+          "expression": "Area of ΔBED = 32 cm²",
+          "expression_latex": "\\text{Area of } \\Delta BED = 32 \\text{ cm}^2"
+        },
+        {
+          "step_number": 4,
+          "description": "Calculate the area of the shaded triangle.",
+          "expression": "Shaded Δ = 80 - 32 = 48 cm²",
+          "expression_latex": "\\text{Shaded } \\Delta = 80 - 32 = 48 \\text{ cm}^2"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q9"
+    },
+    {
+      "final_answer": "3",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q10"
+    },
+    {
+      "final_answer": "2",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q11"
+    },
+    {
+      "final_answer": "3",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q12"
+    },
+    {
+      "final_answer": "1",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q13"
+    },
+    {
+      "final_answer": "$99",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Grouping method",
+          "expression": "group 1 sandwich and 1 pie together",
+          "expression_latex": null
+        },
+        {
+          "step_number": 2,
+          "description": "Cost of pie",
+          "expression": "Cost of pie = $4 - $1.80 = $2.20",
+          "expression_latex": "$\\$4 - \\$1.80 = \\$2.20$"
+        },
+        {
+          "step_number": 3,
+          "description": "Cost of 1 group",
+          "expression": "Cost of 1 group = $4 + $2.20 = $6.20",
+          "expression_latex": "$\\$4 + \\$2.20 = \\$6.20$"
+        },
+        {
+          "step_number": 4,
+          "description": "Number of groups",
+          "expression": "No. of groups = $279 ÷ $6.20 = 45",
+          "expression_latex": "$\\$279 \\div \\$6.20 = 45$"
+        },
+        {
+          "step_number": 5,
+          "description": "Total paid for pies",
+          "expression": "Total paid for pies = 45 x $2.20 = $99",
+          "expression_latex": "$45 \\times \\$2.20 = \\$99$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q14"
+    },
+    {
+      "final_answer": "2",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q15"
+    },
+    {
+      "final_answer": "56",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q16"
+    },
+    {
+      "final_answer": "33.7",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q17"
+    },
+    {
+      "final_answer": "2/15",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q18"
+    },
+    {
+      "final_answer": "455",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q19"
+    },
+    {
+      "final_answer": "29",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q20"
+    },
+    {
+      "final_answer": "18 min",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q21"
+    },
+    {
+      "final_answer": "1.04 m",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q22"
+    },
+    {
+      "final_answer": "17",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q23"
+    },
+    {
+      "final_answer": "28°",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q24"
+    },
+    {
+      "final_answer": "$32",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q25"
+    },
+    {
+      "final_answer": "14",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q26"
+    },
+    {
+      "final_answer": "59°",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q27"
+    },
+    {
+      "final_answer": "$15",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q28"
+    },
+    {
+      "final_answer": "11°",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q29"
+    },
+    {
+      "final_answer": "240 cm²",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q30"
+    },
+    {
+      "final_answer": "13 cm³",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q3a"
+    },
+    {
+      "final_answer": "13 cm²",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q3b"
+    },
+    {
+      "final_answer": "May to June",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q10a"
+    },
+    {
+      "final_answer": "Total visitors = 300 + 600 + 760 + 700 = 2360\nTotal sales = 2360 x $6.50 = $15340",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Calculate total visitors.",
+          "expression": "Total visitors = 300 + 600 + 760 + 700 = 2360",
+          "expression_latex": "\\text{Total visitors} = 300 + 600 + 760 + 700 = 2360"
+        },
+        {
+          "step_number": 2,
+          "description": "Calculate total sales.",
+          "expression": "Total sales = 2360 x $6.50 = $15340",
+          "expression_latex": "\\text{Total sales} = 2360 \\times $6.50 = $15340"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q10b"
+    },
+    {
+      "final_answer": "10u = 1050\n1u = 105\n3u = 315",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Find the value of 1 unit.",
+          "expression": "10u = 1050",
+          "expression_latex": "10u = 1050"
+        },
+        {
+          "step_number": 2,
+          "description": "Calculate 1 unit value.",
+          "expression": "1u = 1050 / 10 = 105",
+          "expression_latex": "1u = \\frac{1050}{10} = 105"
+        },
+        {
+          "step_number": 3,
+          "description": "Calculate the value of 3 units.",
+          "expression": "3u = 3 x 105 = 315",
+          "expression_latex": "3u = 3 \\times 105 = 315"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q11a"
+    },
+    {
+      "final_answer": "No. of women who did not finish race = 0.2 x 315 = 63\nNo. of men who did not finish race = 230 - 63 = 167\nNo. of men who finished race = (1050 - 315) - 167 = 568",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Calculate the number of women who did not finish the race.",
+          "expression": "No. of women who did not finish race = 0.2 x 315 = 63",
+          "expression_latex": "\\text{No. of women who did not finish race} = 0.2 \\times 315 = 63"
+        },
+        {
+          "step_number": 2,
+          "description": "Calculate the number of men who did not finish the race.",
+          "expression": "No. of men who did not finish race = 230 - 63 = 167",
+          "expression_latex": "\\text{No. of men who did not finish race} = 230 - 63 = 167"
+        },
+        {
+          "step_number": 3,
+          "description": "Calculate the number of men who finished the race.",
+          "expression": "No. of men who finished race = (1050 - 315) - 167 = 568",
+          "expression_latex": "\\text{No. of men who finished race} = (1050 - 315) - 167 = 568"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q11b"
+    },
+    {
+      "final_answer": "12",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Data table provided:",
+          "expression": "Multiples of 14: 84, 98, 112, 126, 140, 154, 168\nPaperclips: 88, 102, 116, 130, 144, 158, 172\nMultiples of 20: 120, 140, 160, 180, 200, 220, 240\nPaperclips: 52, 72, 92, 112, 132, 152, 172",
+          "expression_latex": null
+        },
+        {
+          "step_number": 2,
+          "description": "Final calculation",
+          "expression": "168 ÷ 14 = 12",
+          "expression_latex": "$168 \\div 14 = 12$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q12a"
+    },
+    {
+      "final_answer": "172",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q12b"
+    },
+    {
+      "final_answer": "1/10",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Unit distribution",
+          "expression": "Alex: 6u, Ben: 3u, Charles: 1u",
+          "expression_latex": null
+        },
+        {
+          "step_number": 2,
+          "description": "Fraction for Charles",
+          "expression": "Fraction Charles has = 1/10",
+          "expression_latex": "$\\frac{1}{10}$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q13a"
+    },
+    {
+      "final_answer": "240",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Difference in units",
+          "expression": "6u - 1u = 120",
+          "expression_latex": "$6u - 1u = 120$"
+        },
+        {
+          "step_number": 2,
+          "description": "Simplify units",
+          "expression": "5u = 120",
+          "expression_latex": "$5u = 120$"
+        },
+        {
+          "step_number": 3,
+          "description": "Find value of 1 unit",
+          "expression": "1u = 24",
+          "expression_latex": "$1u = 24$"
+        },
+        {
+          "step_number": 4,
+          "description": "Find value of 10 units",
+          "expression": "10u = 240",
+          "expression_latex": "$10u = 240$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q13b"
+    },
+    {
+      "final_answer": "6200 ml",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Volume of container A",
+          "expression": "Vol. of container A = 30 x 15 x 16 = 7200 ml",
+          "expression_latex": "$30 \\times 15 \\times 16 = 7200 \\text{ ml}$"
+        },
+        {
+          "step_number": 2,
+          "description": "Volume of container B",
+          "expression": "Vol. of container B = 10 x 10 x 10 = 1000 ml",
+          "expression_latex": "$10 \\times 10 \\times 10 = 1000 \\text{ ml}$"
+        },
+        {
+          "step_number": 3,
+          "description": "Amount of water left",
+          "expression": "Amt. of water left = 7200 - 1000 = 6200 ml",
+          "expression_latex": "$7200 - 1000 = 6200 \\text{ ml}$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q15a"
+    },
+    {
+      "final_answer": "1.05 ℓ",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Water used calculation and conversion",
+          "expression": "Water used = 6200 - 5150 = 1050 ml = 1.05 ℓ",
+          "expression_latex": "$6200 - 5150 = 1050 \\text{ ml} = 1.05 \\text{ ℓ}$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q15b"
+    },
+    {
+      "final_answer": "45",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Average calculation",
+          "expression": "Average = (35 + 55) ÷ 2 = 45",
+          "expression_latex": "$(35 + 55) \\div 2 = 45$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q16a"
+    },
+    {
+      "final_answer": "230",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Total calculation",
+          "expression": "Total = 35 + 55 + 65 + 75 = 230",
+          "expression_latex": "$35 + 55 + 65 + 75 = 230$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q16b"
+    },
+    {
+      "final_answer": "Bar chart",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "Bar chart showing four bars with heights corresponding to values 35, 55, 65, 75. A fifth bar is partially visible and patterned.",
+          "expression": null,
+          "expression_latex": null
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q16c"
+    },
+    {
+      "final_answer": "19",
+      "acceptable_answers": [],
+      "worked_solution": [],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q17a"
+    },
+    {
+      "final_answer": "23",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "First calculation",
+          "expression": "12 - 1 = 11",
+          "expression_latex": "$12 - 1 = 11$"
+        },
+        {
+          "step_number": 2,
+          "description": "Second calculation",
+          "expression": "11 x 2 = 22",
+          "expression_latex": "$11 \\times 2 = 22$"
+        },
+        {
+          "step_number": 3,
+          "description": "Final calculation",
+          "expression": "22 + 1 = 23",
+          "expression_latex": "$22 + 1 = 23$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q17b"
+    },
+    {
+      "final_answer": "74",
+      "acceptable_answers": [],
+      "worked_solution": [
+        {
+          "step_number": 1,
+          "description": "First calculation",
+          "expression": "295 - 3 = 292",
+          "expression_latex": "$295 - 3 = 292$"
+        },
+        {
+          "step_number": 2,
+          "description": "Second calculation",
+          "expression": "292 ÷ 4 = 73",
+          "expression_latex": "$292 \\div 4 = 73$"
+        },
+        {
+          "step_number": 3,
+          "description": "Final calculation",
+          "expression": "73 + 1 = 74",
+          "expression_latex": "$73 + 1 = 74$"
+        }
+      ],
+      "marking_rubric": [],
+      "explanation": null,
+      "question_ref": "Q17c"
+    }
+  ]
+}

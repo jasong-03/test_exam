@@ -1,0 +1,23 @@
+{
+  "id": "158123b6-8831-42dc-be2c-8176749657b8",
+  "question_number": "Q16b",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Calculate the total sum of 35, 55, 65, and 75: Total = 35 + 55 + 65 + 75 = 230.",
+    "text_latex": "Calculate the total sum of 35, 55, 65, and 75: Total = $35 + 55 + 65 + 75 = 230$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 37,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.8
+}

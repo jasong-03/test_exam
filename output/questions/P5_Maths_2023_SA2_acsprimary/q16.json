@@ -1,0 +1,110 @@
+{
+  "id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+  "question_number": "16",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "The bar graph below shows the number of cupcakes sold from Monday to Friday. [Diagram: A bar graph is displayed with 'Day' on the x-axis and 'Number of cupcakes sold' on the y-axis. The y-axis ranges from 0 to 80, marked in increments of 20. The x-axis has labels for 'Mon', 'Tue', 'Wed', 'Thu', and 'Fri'. The bars show the following approximate values: Monday (35 cupcakes), Tuesday (55 cupcakes), Wednesday (65 cupcakes), Thursday (70 cupcakes). The position for Friday's bar is indicated by a vertical dotted line, suggesting its value is to be determined or marked.]",
+    "text_latex": "The bar graph below shows the number of cupcakes sold from Monday to Friday.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [
+    {
+      "id": "c8343f26",
+      "type": "DIAGRAM",
+      "alt_text": "A bar graph titled 'Number of cupcakes sold' is displayed. The x-axis represents 'Day' with labels 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The y-axis represents 'Number of cupcakes sold' and is scaled from 0 to 80 in increments of 20. The bars show the following approximate values: Monday (35), Tuesday (55), Wednesday (65), Thursday (70). The bar for Friday is indicated by a vertical dotted line, suggesting its value is to be determined or marked.",
+      "description": "A bar graph titled 'Number of cupcakes sold' is displayed. The x-axis represents 'Day' with labels 'Mon', 'Tue', 'Wed', 'Thu', 'Fri'. The y-axis represents 'Number of cupcakes sold' and is scaled from 0 to 80 in increments of 20. The bars show the following approximate values: Monday (35), Tuesday (55), Wednesday (65), Thursday (70). The bar for Friday is indicated by a vertical dotted line, suggesting its value is to be determined or marked.",
+      "bounding_box": {
+        "x1": 18.0,
+        "y1": 17.0,
+        "x2": 84.0,
+        "y2": 45.0
+      },
+      "source_page": 33,
+      "is_shared": false,
+      "shared_with_questions": [],
+      "extraction_confidence": 0.9
+    }
+  ],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [
+    {
+      "id": "70fef835-485a-4836-b977-2cf6d193b18e",
+      "question_number": "16a",
+      "parent_question_id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "What was the average number of cupcakes sold on Monday and Tuesday?",
+        "text_latex": "What was the average number of cupcakes sold on Monday and Tuesday?",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [],
+      "source": {
+        "page_number": 33,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    },
+    {
+      "id": "16eb6257-4476-406b-9b1f-44ca9be7fc79",
+      "question_number": "16b",
+      "parent_question_id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "Find the total number of cupcakes sold from Monday to Thursday.",
+        "text_latex": "Find the total number of cupcakes sold from Monday to Thursday.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 1,
+      "subparts": [],
+      "source": {
+        "page_number": 33,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    },
+    {
+      "id": "a652a54b-66e7-4c29-b7ab-33d68701d30d",
+      "question_number": "16c",
+      "parent_question_id": "6d614f77-71eb-4ca3-b599-9a2618e7b83a",
+      "hierarchy_level": 1,
+      "content": {
+        "text": "The average number of cupcakes sold for the 5 days was 56. Find the number of cupcakes sold on Friday. Shade your answer in the graph above.",
+        "text_latex": "The average number of cupcakes sold for the 5 days was 56. Find the number of cupcakes sold on Friday. Shade your answer in the graph above.",
+        "text_html": null,
+        "segments": []
+      },
+      "response_type": "WORKING_AREA",
+      "response_config": null,
+      "diagrams": [],
+      "answer_key": null,
+      "marks": 2,
+      "subparts": [],
+      "source": {
+        "page_number": 33,
+        "bounding_box": null
+      },
+      "extraction_confidence": 0.8
+    }
+  ],
+  "source": {
+    "page_number": 33,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

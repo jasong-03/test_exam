@@ -1,0 +1,23 @@
+{
+  "id": "790464c7-2800-476d-b8ef-cb7cf13e89ed",
+  "question_number": "Q4",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Perform the following calculation: $0.38 + 1.15 = 1.53$.",
+    "text_latex": "Perform the following calculation: $0.38 + 1.15 = 1.53$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 36,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.9
+}

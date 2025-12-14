@@ -1,0 +1,23 @@
+{
+  "id": "f2d24427-36d9-4dc4-9dae-4fd10a26f6e7",
+  "question_number": "20",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "What is the value of $20 + (24 - 6) \\div 6 \\times 3$.",
+    "text_latex": "What is the value of $20 + (24 - 6) \\div 6 \\times 3$.",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "SHORT_ANSWER",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 11,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.98
+}

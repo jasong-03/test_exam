@@ -1,0 +1,23 @@
+{
+  "id": "a82c068c-648a-4506-8d86-70bbc70fed64",
+  "question_number": "28",
+  "parent_question_id": null,
+  "hierarchy_level": 0,
+  "content": {
+    "text": "Annie, Ben and Caili shared some money. The ratio of Annie's money to Ben's money was $4 : 1$. Caili received $84 and she had $24 more than Annie. How much money did Ben receive?",
+    "text_latex": "Annie, Ben and Caili shared some money. The ratio of Annie's money to Ben's money was $4 : 1$. Caili received $84 and she had $24 more than Annie. How much money did Ben receive?",
+    "text_html": null,
+    "segments": []
+  },
+  "response_type": "WORKING_AREA",
+  "response_config": null,
+  "diagrams": [],
+  "answer_key": null,
+  "marks": null,
+  "subparts": [],
+  "source": {
+    "page_number": 15,
+    "bounding_box": null
+  },
+  "extraction_confidence": 0.95
+}
